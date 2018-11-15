@@ -1,0 +1,6719 @@
+{"item": [
+	{
+		"name": "Azurite",
+		"source": "DMG"
+	},
+	{
+		"name": "Banded Agate",
+		"source": "DMG"
+	},
+	{
+		"name": "Blue Quartz",
+		"source": "DMG"
+	},
+	{
+		"name": "Eye Agate",
+		"source": "DMG"
+	},
+	{
+		"name": "Hematite",
+		"source": "DMG"
+	},
+	{
+		"name": "Lapis Lazuli",
+		"source": "DMG"
+	},
+	{
+		"name": "Malachite",
+		"source": "DMG"
+	},
+	{
+		"name": "Moss Agate",
+		"source": "DMG"
+	},
+	{
+		"name": "Obsidian",
+		"source": "DMG"
+	},
+	{
+		"name": "Rhodochrosite",
+		"source": "DMG"
+	},
+	{
+		"name": "Tiger Eye",
+		"source": "DMG"
+	},
+	{
+		"name": "Turquoise",
+		"source": "DMG"
+	},
+	{
+		"name": "Amber",
+		"source": "DMG"
+	},
+	{
+		"name": "Amethyst",
+		"source": "DMG"
+	},
+	{
+		"name": "Chrysoberyl",
+		"source": "DMG"
+	},
+	{
+		"name": "Coral",
+		"source": "DMG"
+	},
+	{
+		"name": "Garnet",
+		"source": "DMG"
+	},
+	{
+		"name": "Jade",
+		"source": "DMG"
+	},
+	{
+		"name": "Jet",
+		"source": "DMG"
+	},
+	{
+		"name": "Pearl",
+		"source": "DMG"
+	},
+	{
+		"name": "Spinel",
+		"source": "DMG"
+	},
+	{
+		"name": "Tourmaline",
+		"source": "DMG"
+	},
+	{
+		"name": "Black Opal",
+		"source": "DMG"
+	},
+	{
+		"name": "Blue Sapphire",
+		"source": "DMG"
+	},
+	{
+		"name": "Emerald",
+		"source": "DMG"
+	},
+	{
+		"name": "Fire Opal",
+		"source": "DMG"
+	},
+	{
+		"name": "Opal",
+		"source": "DMG"
+	},
+	{
+		"name": "Star Ruby",
+		"source": "DMG"
+	},
+	{
+		"name": "Star Sapphire",
+		"source": "DMG"
+	},
+	{
+		"name": "Yellow Sapphire",
+		"source": "DMG"
+	},
+	{
+		"name": "Black velvet mask stitched with silver thread",
+		"source": "DMG"
+	},
+	{
+		"name": "Carved bone statuette",
+		"source": "DMG"
+	},
+	{
+		"name": "Cloth-of-gold vestments",
+		"source": "DMG"
+	},
+	{
+		"name": "Copper chalice with silver filigree",
+		"source": "DMG"
+	},
+	{
+		"name": "Embroidered silk handkerchief",
+		"source": "DMG"
+	},
+	{
+		"name": "Gold locket with a painted portrait inside",
+		"source": "DMG"
+	},
+	{
+		"name": "Pair of engraved bone dice",
+		"source": "DMG"
+	},
+	{
+		"name": "Silver ewer",
+		"source": "DMG"
+	},
+	{
+		"name": "Small gold bracelet",
+		"source": "DMG"
+	},
+	{
+		"name": "Small mirror set in a painted wooden frame",
+		"source": "DMG"
+	},
+	{
+		"name": "Box of turquoise animal figurines",
+		"source": "DMG"
+	},
+	{
+		"name": "Brass mug with jade inlay",
+		"source": "DMG"
+	},
+	{
+		"name": "Bronze crown",
+		"source": "DMG"
+	},
+	{
+		"name": "Carved ivory statuette",
+		"source": "DMG"
+	},
+	{
+		"name": "Gold bird cage with electrum filigree",
+		"source": "DMG"
+	},
+	{
+		"name": "Gold ring set with bloodstones",
+		"source": "DMG"
+	},
+	{
+		"name": "Large gold bracelet",
+		"source": "DMG"
+	},
+	{
+		"name": "Large well-made tapestry",
+		"source": "DMG"
+	},
+	{
+		"name": "Silk robe with gold embroidery",
+		"source": "DMG"
+	},
+	{
+		"name": "Silver necklace with a gemstone pendant",
+		"source": "DMG"
+	},
+	{
+		"name": "Necklace string of small pink pearls",
+		"source": "DMG"
+	},
+	{
+		"name": "Embroidered glove set with jewel chips",
+		"source": "DMG"
+	},
+	{
+		"name": "Embroidered silk and velvet mantle set with numerous moonstones",
+		"source": "DMG"
+	},
+	{
+		"name": "Eye patch with a mock eye set in blue sapphire and moonstone",
+		"source": "DMG"
+	},
+	{
+		"name": "Fine gold chain set with a fire opal",
+		"source": "DMG"
+	},
+	{
+		"name": "Gold circlet set with four aquamarines",
+		"source": "DMG"
+	},
+	{
+		"name": "Gold music box",
+		"source": "DMG"
+	},
+	{
+		"name": "Jeweled anklet",
+		"source": "DMG"
+	},
+	{
+		"name": "Old masterpiece painting",
+		"source": "DMG"
+	},
+	{
+		"name": "Platinum bracelet set with a sapphire",
+		"source": "DMG"
+	},
+	{
+		"name": "Bloodstone",
+		"source": "DMG"
+	},
+	{
+		"name": "Carnelian",
+		"source": "DMG"
+	},
+	{
+		"name": "Chalcedony",
+		"source": "DMG"
+	},
+	{
+		"name": "Chrysoprase",
+		"source": "DMG"
+	},
+	{
+		"name": "Citrine",
+		"source": "DMG"
+	},
+	{
+		"name": "Jasper",
+		"source": "DMG"
+	},
+	{
+		"name": "Moonstone",
+		"source": "DMG"
+	},
+	{
+		"name": "Onyx",
+		"source": "DMG"
+	},
+	{
+		"name": "Quartz",
+		"source": "DMG"
+	},
+	{
+		"name": "Sardonyx",
+		"source": "DMG"
+	},
+	{
+		"name": "Star rose quartz",
+		"source": "DMG"
+	},
+	{
+		"name": "Zircon",
+		"source": "DMG"
+	},
+	{
+		"name": "Alexandrite",
+		"source": "DMG"
+	},
+	{
+		"name": "Aquamarine",
+		"source": "DMG"
+	},
+	{
+		"name": "Black Pearl",
+		"source": "DMG"
+	},
+	{
+		"name": "Blue Spinel",
+		"source": "DMG"
+	},
+	{
+		"name": "Peridot",
+		"source": "DMG"
+	},
+	{
+		"name": "Topaz",
+		"source": "DMG"
+	},
+	{
+		"name": "Black Sapphire",
+		"source": "DMG"
+	},
+	{
+		"name": "Diamond",
+		"source": "DMG"
+	},
+	{
+		"name": "Jacinth",
+		"source": "DMG"
+	},
+	{
+		"name": "Ruby",
+		"source": "DMG"
+	},
+	{
+		"name": "Bottle stopper cork embossed with gold leaf and set with amethysts",
+		"source": "DMG"
+	},
+	{
+		"name": "Carved harp of exotic wood with ivory inlay and zircon gems",
+		"source": "DMG"
+	},
+	{
+		"name": "Ceremonial electrum dagger with a black pearl in the pommel",
+		"source": "DMG"
+	},
+	{
+		"name": "Gold dragon comb set with red garnets as eyes",
+		"source": "DMG"
+	},
+	{
+		"name": "Obsidian statuette with gold fittings and inlay",
+		"source": "DMG"
+	},
+	{
+		"name": "Painted gold war mask",
+		"source": "DMG"
+	},
+	{
+		"name": "Silver and gold brooch",
+		"source": "DMG"
+	},
+	{
+		"name": "Silver chalice set with moonstones",
+		"source": "DMG"
+	},
+	{
+		"name": "Silver-plated steel longsword with jet set in hilt",
+		"source": "DMG"
+	},
+	{
+		"name": "Small gold idol",
+		"source": "DMG"
+	},
+	{
+		"name": "Bejeweled ivory drinking horn with gold filigree",
+		"source": "DMG"
+	},
+	{
+		"name": "Gold cup set with emeralds",
+		"source": "DMG"
+	},
+	{
+		"name": "Gold jewelry box with platinum filigree",
+		"source": "DMG"
+	},
+	{
+		"name": "Jade game board with solid gold playing pieces",
+		"source": "DMG"
+	},
+	{
+		"name": "Jeweled gold crown",
+		"source": "DMG"
+	},
+	{
+		"name": "Jeweled platinum ring",
+		"source": "DMG"
+	},
+	{
+		"name": "Painted gold child's sarcophagus",
+		"source": "DMG"
+	},
+	{
+		"name": "Small gold statuette set with rubies",
+		"source": "DMG"
+	},
+	{
+		"name": "Abacus",
+		"source": "PHB"
+	},
+	{
+		"name": "Acid (vial)",
+		"source": "PHB"
+	},
+	{
+		"name": "Alchemist's Fire (flask)",
+		"source": "PHB"
+	},
+	{
+		"name": "Alchemist's Supplies",
+		"source": "PHB"
+	},
+	{
+		"name": "Alchemy Jug",
+		"source": "DMG"
+	},
+	{
+		"name": "Amulet of Health",
+		"source": "DMG"
+	},
+	{
+		"name": "Amulet of Proof Against Detection and Location",
+		"source": "DMG"
+	},
+	{
+		"name": "Amulet of the Planes",
+		"source": "DMG"
+	},
+	{
+		"name": "Animated Shield",
+		"source": "DMG"
+	},
+	{
+		"name": "Antitoxin",
+		"source": "PHB"
+	},
+	{
+		"name": "Apparatus of Kwalish",
+		"source": "DMG"
+	},
+	{
+		"name": "Armor of Invulnerability",
+		"source": "DMG"
+	},
+	{
+		"name": "Armor of Vulnerability (Bludgeoning)",
+		"source": "DMG"
+	},
+	{
+		"name": "Armor of Vulnerability (Piercing)",
+		"source": "DMG"
+	},
+	{
+		"name": "Armor of Vulnerability (Slashing)",
+		"source": "DMG"
+	},
+	{
+		"name": "Arrow-Catching Shield",
+		"source": "DMG"
+	},
+	{
+		"name": "Assassin's Blood (Ingested)",
+		"source": "DMG"
+	},
+	{
+		"name": "Axe of the Dwarvish Lords",
+		"source": "DMG"
+	},
+	{
+		"name": "Backpack",
+		"source": "PHB"
+	},
+	{
+		"name": "Bag of Beans",
+		"source": "DMG"
+	},
+	{
+		"name": "Bag of Devouring",
+		"source": "DMG"
+	},
+	{
+		"name": "Bag of Holding",
+		"source": "DMG"
+	},
+	{
+		"name": "Bag of Tricks, Gray",
+		"source": "DMG"
+	},
+	{
+		"name": "Bag of Tricks, Rust",
+		"source": "DMG"
+	},
+	{
+		"name": "Bag of Tricks, Tan",
+		"source": "DMG"
+	},
+	{
+		"name": "Bagpipes",
+		"source": "PHB"
+	},
+	{
+		"name": "Ball Bearings",
+		"source": "PHB"
+	},
+	{
+		"name": "Balloon Pack",
+		"source": "PotA"
+	},
+	{
+		"name": "Banner of the Krig Rune",
+		"source": "SKT"
+	},
+	{
+		"name": "Barrel",
+		"source": "PHB"
+	},
+	{
+		"name": "Basic Poison (vial)",
+		"source": "PHB"
+	},
+	{
+		"name": "Basket",
+		"source": "PHB"
+	},
+	{
+		"name": "Bead of Force",
+		"source": "DMG"
+	},
+	{
+		"name": "Bedroll",
+		"source": "PHB"
+	},
+	{
+		"name": "Bell",
+		"source": "PHB"
+	},
+	{
+		"name": "Belt of Cloud Giant Strength",
+		"source": "DMG"
+	},
+	{
+		"name": "Belt of Dwarvenkind",
+		"source": "DMG"
+	},
+	{
+		"name": "Belt of Fire Giant Strength",
+		"source": "DMG"
+	},
+	{
+		"name": "Belt of Frost Giant Strength",
+		"source": "DMG"
+	},
+	{
+		"name": "Belt of Hill Giant Strength",
+		"source": "DMG"
+	},
+	{
+		"name": "Belt of Stone Giant Strength",
+		"source": "DMG"
+	},
+	{
+		"name": "Belt of Storm Giant Strength",
+		"source": "DMG"
+	},
+	{
+		"name": "Black Dragon Mask",
+		"source": "HotDQ"
+	},
+	{
+		"name": "Black Dragon Scale Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Blackrazor",
+		"source": "DMG"
+	},
+	{
+		"name": "Blanket",
+		"source": "PHB"
+	},
+	{
+		"name": "Block and Tackle",
+		"source": "PHB"
+	},
+	{
+		"name": "Blod Stone",
+		"source": "SKT"
+	},
+	{
+		"name": "Blood Spear",
+		"source": "CoS"
+	},
+	{
+		"name": "Blue Dragon Mask",
+		"source": "RoTOS"
+	},
+	{
+		"name": "Blue Dragon Scale Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Book",
+		"source": "PHB"
+	},
+	{
+		"name": "Book of Exalted Deeds",
+		"source": "DMG"
+	},
+	{
+		"name": "Book of Vile Darkness",
+		"source": "DMG"
+	},
+	{
+		"name": "Boots of Elvenkind",
+		"source": "DMG"
+	},
+	{
+		"name": "Boots of Levitation",
+		"source": "DMG"
+	},
+	{
+		"name": "Boots of Speed",
+		"source": "DMG"
+	},
+	{
+		"name": "Boots of Striding and Springing",
+		"source": "DMG"
+	},
+	{
+		"name": "Boots of the Winterlands",
+		"source": "DMG"
+	},
+	{
+		"name": "Bottled Breath",
+		"source": "PotA"
+	},
+	{
+		"name": "Bowl of Commanding Water Elementals",
+		"source": "DMG"
+	},
+	{
+		"name": "Bracers of Archery",
+		"source": "DMG"
+	},
+	{
+		"name": "Bracers of Defense",
+		"source": "DMG"
+	},
+	{
+		"name": "Brass Dragon Scale Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Brazier of Commanding Fire Elementals",
+		"source": "DMG"
+	},
+	{
+		"name": "Brewer's Supplies",
+		"source": "PHB"
+	},
+	{
+		"name": "Bronze Dragon Scale Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Brooch of Shielding",
+		"source": "DMG"
+	},
+	{
+		"name": "Broom of Flying",
+		"source": "DMG"
+	},
+	{
+		"name": "Bucket",
+		"source": "PHB"
+	},
+	{
+		"name": "Bullseye Lantern",
+		"source": "PHB"
+	},
+	{
+		"name": "Burglar's Pack",
+		"source": "PHB"
+	},
+	{
+		"name": "Burnt Othur Fumes (Inhaled)",
+		"source": "DMG"
+	},
+	{
+		"name": "Calligrapher's Supplies",
+		"source": "PHB"
+	},
+	{
+		"name": "Caltrops",
+		"source": "PHB"
+	},
+	{
+		"name": "Caltrops (20)",
+		"source": "PHB"
+	},
+	{
+		"name": "Candle",
+		"source": "PHB"
+	},
+	{
+		"name": "Candle of Invocation",
+		"source": "DMG"
+	},
+	{
+		"name": "Cap of Water Breathing",
+		"source": "DMG"
+	},
+	{
+		"name": "Cape of the Mountebank",
+		"source": "DMG"
+	},
+	{
+		"name": "Carpenter's Tools",
+		"source": "PHB"
+	},
+	{
+		"name": "Carpet of Flying, 3 ft. x 5 ft.",
+		"source": "DMG"
+	},
+	{
+		"name": "Carpet of Flying, 4 ft. x 6 ft.",
+		"source": "DMG"
+	},
+	{
+		"name": "Carpet of Flying, 5 ft. x 7 ft.",
+		"source": "DMG"
+	},
+	{
+		"name": "Carpet of Flying, 6 ft. x 9 ft.",
+		"source": "DMG"
+	},
+	{
+		"name": "Carrion Crawler Mucus (Contact)",
+		"source": "DMG"
+	},
+	{
+		"name": "Cartographer's Tools",
+		"source": "PHB"
+	},
+	{
+		"name": "Censer of Controlling Air Elementals",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain (10 feet)",
+		"source": "PHB"
+	},
+	{
+		"name": "Chalk (1 piece)",
+		"source": "PHB"
+	},
+	{
+		"name": "Chest",
+		"source": "PHB"
+	},
+	{
+		"name": "Chime of Opening",
+		"source": "DMG"
+	},
+	{
+		"name": "Circlet of Blasting",
+		"source": "DMG"
+	},
+	{
+		"name": "Claw of the Wyrm Rune",
+		"source": "SKT"
+	},
+	{
+		"name": "Claws of the Umber Hulk",
+		"source": "PotA"
+	},
+	{
+		"name": "Climber's Kit",
+		"source": "PHB"
+	},
+	{
+		"name": "Cloak of Arachnida",
+		"source": "DMG"
+	},
+	{
+		"name": "Cloak of Displacement",
+		"source": "DMG"
+	},
+	{
+		"name": "Cloak of Elvenkind",
+		"source": "DMG"
+	},
+	{
+		"name": "Cloak of Invisibility",
+		"source": "DMG"
+	},
+	{
+		"name": "Cloak of Protection",
+		"source": "DMG"
+	},
+	{
+		"name": "Cloak of the Bat",
+		"source": "DMG"
+	},
+	{
+		"name": "Cloak of the Manta Ray",
+		"source": "DMG"
+	},
+	{
+		"name": "Cobbler's Tools",
+		"source": "PHB"
+	},
+	{
+		"name": "Common Clothes",
+		"source": "PHB"
+	},
+	{
+		"name": "Component Pouch",
+		"source": "PHB"
+	},
+	{
+		"name": "Conch of Teleportation",
+		"source": "SKT"
+	},
+	{
+		"name": "Cook's Utensils",
+		"source": "PHB"
+	},
+	{
+		"name": "Copper (cp)",
+		"source": "PHB"
+	},
+	{
+		"name": "Copper Dragon Scale Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Costume Clothes",
+		"source": "PHB"
+	},
+	{
+		"name": "Crossbow Bolt Case",
+		"source": "PHB"
+	},
+	{
+		"name": "Crowbar",
+		"source": "PHB"
+	},
+	{
+		"name": "Crystal",
+		"source": "PHB"
+	},
+	{
+		"name": "Crystal Ball",
+		"source": "DMG"
+	},
+	{
+		"name": "Crystal Ball of Mind Reading",
+		"source": "DMG"
+	},
+	{
+		"name": "Crystal Ball of Telepathy",
+		"source": "DMG"
+	},
+	{
+		"name": "Crystal Ball of True Seeing",
+		"source": "DMG"
+	},
+	{
+		"name": "Cube of Force",
+		"source": "DMG"
+	},
+	{
+		"name": "Cubic Gate",
+		"source": "DMG"
+	},
+	{
+		"name": "Daern's Instant Fortress",
+		"source": "DMG"
+	},
+	{
+		"name": "Dagger of Venom",
+		"source": "DMG"
+	},
+	{
+		"name": "Dawnbringer",
+		"source": "OotA"
+	},
+	{
+		"name": "Decanter of Endless Water",
+		"source": "DMG"
+	},
+	{
+		"name": "Deck of Illusions",
+		"source": "DMG"
+	},
+	{
+		"name": "Deck of Many Things",
+		"source": "DMG"
+	},
+	{
+		"name": "Demon Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Devastation Orb of Air",
+		"source": "PotA"
+	},
+	{
+		"name": "Devastation Orb of Earth",
+		"source": "PotA"
+	},
+	{
+		"name": "Devastation Orb of Fire",
+		"source": "PotA"
+	},
+	{
+		"name": "Devastation Orb of Water",
+		"source": "PotA"
+	},
+	{
+		"name": "Dice Set",
+		"source": "PHB"
+	},
+	{
+		"name": "Dimensional Shackles",
+		"source": "DMG"
+	},
+	{
+		"name": "Diplomat's Pack",
+		"source": "PHB"
+	},
+	{
+		"name": "Disguise Kit",
+		"source": "PHB"
+	},
+	{
+		"name": "Draakhorn",
+		"source": "RoT"
+	},
+	{
+		"name": "Dragonchess Set",
+		"source": "PHB"
+	},
+	{
+		"name": "Dragontooth Dagger",
+		"source": "RoT"
+	},
+	{
+		"name": "Driftglobe",
+		"source": "DMG"
+	},
+	{
+		"name": "Drow Poison (Injury)",
+		"source": "DMG"
+	},
+	{
+		"name": "Drown",
+		"source": "PotA"
+	},
+	{
+		"name": "Drum",
+		"source": "PHB"
+	},
+	{
+		"name": "Dulcimer",
+		"source": "PHB"
+	},
+	{
+		"name": "Dungeoneer's Pack",
+		"source": "PHB"
+	},
+	{
+		"name": "Dust of Disappearance",
+		"source": "DMG"
+	},
+	{
+		"name": "Dust of Dryness",
+		"source": "DMG"
+	},
+	{
+		"name": "Dust of Sneezing and Choking",
+		"source": "DMG"
+	},
+	{
+		"name": "Dwarven Plate",
+		"source": "DMG"
+	},
+	{
+		"name": "Dwarven Thrower",
+		"source": "DMG"
+	},
+	{
+		"name": "Efreeti Bottle",
+		"source": "DMG"
+	},
+	{
+		"name": "Efreeti Chain",
+		"source": "DMG"
+	},
+	{
+		"name": "Electrum (ep)",
+		"source": "PHB"
+	},
+	{
+		"name": "Elemental Gem, Blue Sapphire",
+		"source": "DMG"
+	},
+	{
+		"name": "Elemental Gem, Emerald",
+		"source": "DMG"
+	},
+	{
+		"name": "Elemental Gem, Red Corundum",
+		"source": "DMG"
+	},
+	{
+		"name": "Elemental Gem, Yellow Diamond",
+		"source": "DMG"
+	},
+	{
+		"name": "Elixir of Health",
+		"source": "DMG"
+	},
+	{
+		"name": "Elven Chain",
+		"source": "DMG"
+	},
+	{
+		"name": "Entertainer's Pack",
+		"source": "PHB"
+	},
+	{
+		"name": "Essence of Ether (Inhaled)",
+		"source": "DMG"
+	},
+	{
+		"name": "Eversmoking Bottle",
+		"source": "DMG"
+	},
+	{
+		"name": "Explorer's Pack",
+		"source": "PHB"
+	},
+	{
+		"name": "Eye of Vecna",
+		"source": "DMG"
+	},
+	{
+		"name": "Eyes of Charming",
+		"source": "DMG"
+	},
+	{
+		"name": "Eyes of Minute Seeing",
+		"source": "DMG"
+	},
+	{
+		"name": "Eyes of the Eagle",
+		"source": "DMG"
+	},
+	{
+		"name": "Figurine of Wondrous Power, Bronze Griffon",
+		"source": "DMG"
+	},
+	{
+		"name": "Figurine of Wondrous Power, Ebony Fly",
+		"source": "DMG"
+	},
+	{
+		"name": "Figurine of Wondrous Power, Golden Lions",
+		"source": "DMG"
+	},
+	{
+		"name": "Figurine of Wondrous Power, Ivory Goats",
+		"source": "DMG"
+	},
+	{
+		"name": "Figurine of Wondrous Power, Marble Elephant",
+		"source": "DMG"
+	},
+	{
+		"name": "Figurine of Wondrous Power, Obsidian Steed",
+		"source": "DMG"
+	},
+	{
+		"name": "Figurine of Wondrous Power, Onyx Dog",
+		"source": "DMG"
+	},
+	{
+		"name": "Figurine of Wondrous Power, Serpentine Owl",
+		"source": "DMG"
+	},
+	{
+		"name": "Figurine of Wondrous Power, Silver Raven",
+		"source": "DMG"
+	},
+	{
+		"name": "Fine Clothes",
+		"source": "PHB"
+	},
+	{
+		"name": "Fishing Tackle",
+		"source": "PHB"
+	},
+	{
+		"name": "Flask",
+		"source": "PHB"
+	},
+	{
+		"name": "Flute",
+		"source": "PHB"
+	},
+	{
+		"name": "Folding Boat",
+		"source": "DMG"
+	},
+	{
+		"name": "Forgery Kit",
+		"source": "PHB"
+	},
+	{
+		"name": "Gauntlets of Ogre Power",
+		"source": "DMG"
+	},
+	{
+		"name": "Gavel of the Venn Rune",
+		"source": "SKT"
+	},
+	{
+		"name": "Gem of Brightness",
+		"source": "DMG"
+	},
+	{
+		"name": "Gem of Seeing",
+		"source": "DMG"
+	},
+	{
+		"name": "Glamoured Studded Leather",
+		"source": "DMG"
+	},
+	{
+		"name": "Glass Bottle",
+		"source": "PHB"
+	},
+	{
+		"name": "Glassblower's Tools",
+		"source": "PHB"
+	},
+	{
+		"name": "Gloves of Missile Snaring",
+		"source": "DMG"
+	},
+	{
+		"name": "Gloves of Swimming and Climbing",
+		"source": "DMG"
+	},
+	{
+		"name": "Gloves of Thievery",
+		"source": "DMG"
+	},
+	{
+		"name": "Goggles of Night",
+		"source": "DMG"
+	},
+	{
+		"name": "Gold (gp)",
+		"source": "PHB"
+	},
+	{
+		"name": "Gold Dragon Scale Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Grappling Hook",
+		"source": "PHB"
+	},
+	{
+		"name": "Green Dragon Mask",
+		"source": "RoTOS"
+	},
+	{
+		"name": "Green Dragon Scale Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Gulthias Staff",
+		"source": "CoS"
+	},
+	{
+		"name": "Gurt's Greataxe",
+		"source": "SKT"
+	},
+	{
+		"name": "Hammer",
+		"source": "PHB"
+	},
+	{
+		"name": "Hammer of Thunderbolts",
+		"source": "DMG"
+	},
+	{
+		"name": "Hand of Vecna",
+		"source": "DMG"
+	},
+	{
+		"name": "Hat of Disguise",
+		"source": "DMG"
+	},
+	{
+		"name": "Hazirawn",
+		"source": "HotDQ"
+	},
+	{
+		"name": "Headband of Intellect",
+		"source": "DMG"
+	},
+	{
+		"name": "Healer's Kit",
+		"source": "PHB"
+	},
+	{
+		"name": "Helm of Brilliance",
+		"source": "DMG"
+	},
+	{
+		"name": "Helm of Comprehending Languages",
+		"source": "DMG"
+	},
+	{
+		"name": "Helm of Telepathy",
+		"source": "DMG"
+	},
+	{
+		"name": "Helm of Teleportation",
+		"source": "DMG"
+	},
+	{
+		"name": "Hempen Rope (50 feet)",
+		"source": "PHB"
+	},
+	{
+		"name": "Herbalism Kit",
+		"source": "PHB"
+	},
+	{
+		"name": "Heward's Handy Haversack",
+		"source": "DMG"
+	},
+	{
+		"name": "Amulet",
+		"source": "PHB"
+	},
+	{
+		"name": "Emblem",
+		"source": "PHB"
+	},
+	{
+		"name": "Reliquary",
+		"source": "PHB"
+	},
+	{
+		"name": "Holy Symbol of Ravenkind",
+		"source": "CoS"
+	},
+	{
+		"name": "Holy Water (flask)",
+		"source": "PHB"
+	},
+	{
+		"name": "Hooded Lantern",
+		"source": "PHB"
+	},
+	{
+		"name": "Horn",
+		"source": "PHB"
+	},
+	{
+		"name": "Horn of Blasting",
+		"source": "DMG"
+	},
+	{
+		"name": "Horn of Valhalla, Brass",
+		"source": "DMG"
+	},
+	{
+		"name": "Horn of Valhalla, Bronze",
+		"source": "DMG"
+	},
+	{
+		"name": "Horn of Valhalla, Iron",
+		"source": "DMG"
+	},
+	{
+		"name": "Horn of Valhalla, Silver",
+		"source": "DMG"
+	},
+	{
+		"name": "Horseshoes of Speed",
+		"source": "DMG"
+	},
+	{
+		"name": "Horseshoes of a Zephyr",
+		"source": "DMG"
+	},
+	{
+		"name": "Hourglass",
+		"source": "PHB"
+	},
+	{
+		"name": "Hunting Trap",
+		"source": "PHB"
+	},
+	{
+		"name": "Icon of Ravenloft",
+		"source": "CoS"
+	},
+	{
+		"name": "Immovable Rod",
+		"source": "DMG"
+	},
+	{
+		"name": "Ingot of the Skold Rune",
+		"source": "SKT"
+	},
+	{
+		"name": "Ink (1 ounce bottle)",
+		"source": "PHB"
+	},
+	{
+		"name": "Ink Pen",
+		"source": "PHB"
+	},
+	{
+		"name": "Insignia of Claws",
+		"source": "HotDQ"
+	},
+	{
+		"name": "Instrument of the Bards, Anstruth Harp",
+		"source": "DMG"
+	},
+	{
+		"name": "Instrument of the Bards, Canaith Mandolin",
+		"source": "DMG"
+	},
+	{
+		"name": "Instrument of the Bards, Cli Lyre",
+		"source": "DMG"
+	},
+	{
+		"name": "Instrument of the Bards, Doss Lute",
+		"source": "DMG"
+	},
+	{
+		"name": "Instrument of the Bards, Fochlucan Bandore",
+		"source": "DMG"
+	},
+	{
+		"name": "Instrument of the Bards, Mac-Fuirmidh Cittern",
+		"source": "DMG"
+	},
+	{
+		"name": "Instrument of the Bards, Ollamh Harp",
+		"source": "DMG"
+	},
+	{
+		"name": "Ioun Stone, Absorption",
+		"source": "DMG"
+	},
+	{
+		"name": "Ioun Stone, Agility",
+		"source": "DMG"
+	},
+	{
+		"name": "Ioun Stone, Awareness",
+		"source": "DMG"
+	},
+	{
+		"name": "Ioun Stone, Fortitude",
+		"source": "DMG"
+	},
+	{
+		"name": "Ioun Stone, Greater Absorption",
+		"source": "DMG"
+	},
+	{
+		"name": "Ioun Stone, Insight",
+		"source": "DMG"
+	},
+	{
+		"name": "Ioun Stone, Intellect",
+		"source": "DMG"
+	},
+	{
+		"name": "Ioun Stone, Leadership",
+		"source": "DMG"
+	},
+	{
+		"name": "Ioun Stone, Mastery",
+		"source": "DMG"
+	},
+	{
+		"name": "Ioun Stone, Protection",
+		"source": "DMG"
+	},
+	{
+		"name": "Ioun Stone, Regeneration",
+		"source": "DMG"
+	},
+	{
+		"name": "Ioun Stone, Reserve",
+		"source": "DMG"
+	},
+	{
+		"name": "Ioun Stone, Strength",
+		"source": "DMG"
+	},
+	{
+		"name": "Ioun Stone, Sustenance",
+		"source": "DMG"
+	},
+	{
+		"name": "Iron Bands of Bilarro",
+		"source": "DMG"
+	},
+	{
+		"name": "Iron Flask",
+		"source": "DMG"
+	},
+	{
+		"name": "Iron Pot",
+		"source": "PHB"
+	},
+	{
+		"name": "Iron Spikes",
+		"source": "PHB"
+	},
+	{
+		"name": "Iron Spikes (10)",
+		"source": "PHB"
+	},
+	{
+		"name": "Ironfang",
+		"source": "PotA"
+	},
+	{
+		"name": "Javelin of Lightning",
+		"source": "DMG"
+	},
+	{
+		"name": "Jeweler's Tools",
+		"source": "PHB"
+	},
+	{
+		"name": "Jug",
+		"source": "PHB"
+	},
+	{
+		"name": "Keoghtom's Ointment",
+		"source": "DMG"
+	},
+	{
+		"name": "Korolnor Scepter",
+		"source": "SKT"
+	},
+	{
+		"name": "Ladder (10-foot)",
+		"source": "PHB"
+	},
+	{
+		"name": "Lamp",
+		"source": "PHB"
+	},
+	{
+		"name": "Lantern of Revealing",
+		"source": "DMG"
+	},
+	{
+		"name": "Leatherworker's Tools",
+		"source": "PHB"
+	},
+	{
+		"name": "Lock",
+		"source": "PHB"
+	},
+	{
+		"name": "Lost Crown of Besilmer",
+		"source": "PotA"
+	},
+	{
+		"name": "Lute",
+		"source": "PHB"
+	},
+	{
+		"name": "Lyre",
+		"source": "PHB"
+	},
+	{
+		"name": "Mace of Disruption",
+		"source": "DMG"
+	},
+	{
+		"name": "Mace of Smiting",
+		"source": "DMG"
+	},
+	{
+		"name": "Mace of Terror",
+		"source": "DMG"
+	},
+	{
+		"name": "Magnifying Glass",
+		"source": "PHB"
+	},
+	{
+		"name": "Malice (Inhaled)",
+		"source": "DMG"
+	},
+	{
+		"name": "Manacles",
+		"source": "PHB"
+	},
+	{
+		"name": "Mantle of Spell Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Manual of Bodily Health",
+		"source": "DMG"
+	},
+	{
+		"name": "Manual of Clay Golems",
+		"source": "DMG"
+	},
+	{
+		"name": "Manual of Flesh Golems",
+		"source": "DMG"
+	},
+	{
+		"name": "Manual of Gainful Exercise",
+		"source": "DMG"
+	},
+	{
+		"name": "Manual of Iron Golems",
+		"source": "DMG"
+	},
+	{
+		"name": "Manual of Quickness of Action",
+		"source": "DMG"
+	},
+	{
+		"name": "Manual of Stone Golems",
+		"source": "DMG"
+	},
+	{
+		"name": "Map or Scroll Case",
+		"source": "PHB"
+	},
+	{
+		"name": "Mask of the Dragon Queen",
+		"source": "RoT"
+	},
+	{
+		"name": "Mason's Tools",
+		"source": "PHB"
+	},
+	{
+		"name": "Medallion of Thoughts",
+		"source": "DMG"
+	},
+	{
+		"name": "Merchant's Scale",
+		"source": "PHB"
+	},
+	{
+		"name": "Mess Kit",
+		"source": "PHB"
+	},
+	{
+		"name": "Midnight Tears (Ingested)",
+		"source": "DMG"
+	},
+	{
+		"name": "Mind Lash",
+		"source": "VGM"
+	},
+	{
+		"name": "Miner's Pick",
+		"source": "PHB"
+	},
+	{
+		"name": "Mirror of Life Trapping",
+		"source": "DMG"
+	},
+	{
+		"name": "Monster Hunter's Pack",
+		"source": "CoS"
+	},
+	{
+		"name": "Moonblade",
+		"source": "DMG"
+	},
+	{
+		"name": "Navigation Orb",
+		"source": "SKT"
+	},
+	{
+		"name": "Navigator's Tools",
+		"source": "PHB"
+	},
+	{
+		"name": "Necklace of Adaptation",
+		"source": "DMG"
+	},
+	{
+		"name": "Necklace of Fireballs",
+		"source": "DMG"
+	},
+	{
+		"name": "Necklace of Prayer Beads",
+		"source": "DMG"
+	},
+	{
+		"name": "Nolzur's Marvelous Pigments",
+		"source": "DMG"
+	},
+	{
+		"name": "Oathbow",
+		"source": "DMG"
+	},
+	{
+		"name": "Oil (flask)",
+		"source": "PHB"
+	},
+	{
+		"name": "Oil of Etherealness",
+		"source": "DMG"
+	},
+	{
+		"name": "Oil of Sharpness",
+		"source": "DMG"
+	},
+	{
+		"name": "Oil of Slipperiness",
+		"source": "DMG"
+	},
+	{
+		"name": "Oil of Taggit (Contact)",
+		"source": "DMG"
+	},
+	{
+		"name": "Opal of the Ild Rune",
+		"source": "SKT"
+	},
+	{
+		"name": "Orb",
+		"source": "PHB"
+	},
+	{
+		"name": "Orb of Dragonkind",
+		"source": "DMG"
+	},
+	{
+		"name": "Orb of the Stein Rune",
+		"source": "SKT"
+	},
+	{
+		"name": "Orcsplitter",
+		"source": "PotA"
+	},
+	{
+		"name": "Painter's Supplies",
+		"source": "PHB"
+	},
+	{
+		"name": "Pale Tincture (Ingested)",
+		"source": "DMG"
+	},
+	{
+		"name": "Pan Flute",
+		"source": "PHB"
+	},
+	{
+		"name": "Paper (one sheet)",
+		"source": "PHB"
+	},
+	{
+		"name": "Parchment (one sheet)",
+		"source": "PHB"
+	},
+	{
+		"name": "Pearl of Power",
+		"source": "DMG"
+	},
+	{
+		"name": "Pennant of the Vind Rune",
+		"source": "SKT"
+	},
+	{
+		"name": "Perfume (vial)",
+		"source": "PHB"
+	},
+	{
+		"name": "Periapt of Health",
+		"source": "DMG"
+	},
+	{
+		"name": "Periapt of Proof Against Poison",
+		"source": "DMG"
+	},
+	{
+		"name": "Periapt of Wound Closure",
+		"source": "DMG"
+	},
+	{
+		"name": "Philter of Love",
+		"source": "DMG"
+	},
+	{
+		"name": "Pipes of Haunting",
+		"source": "DMG"
+	},
+	{
+		"name": "Pipes of the Sewers",
+		"source": "DMG"
+	},
+	{
+		"name": "Pitcher",
+		"source": "PHB"
+	},
+	{
+		"name": "Piton",
+		"source": "PHB"
+	},
+	{
+		"name": "Piwafwi (Cloak of Elvenkind)",
+		"source": "OotA"
+	},
+	{
+		"name": "Piwafwi of Fire Resistance (Cloak of Elvenkind)",
+		"source": "OotA"
+	},
+	{
+		"name": "Platinum (pp)",
+		"source": "PHB"
+	},
+	{
+		"name": "Playing Card Set",
+		"source": "PHB"
+	},
+	{
+		"name": "Poisoner's Kit",
+		"source": "PHB"
+	},
+	{
+		"name": "Pole (10-foot)",
+		"source": "PHB"
+	},
+	{
+		"name": "Portable Hole",
+		"source": "DMG"
+	},
+	{
+		"name": "Portable Ram",
+		"source": "PHB"
+	},
+	{
+		"name": "Potion of Acid Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Animal Friendship",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Clairvoyance",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Climbing",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Cloud Giant Strength",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Cold Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Diminution",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Fire Breath",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Fire Giant Strength",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Fire Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Flying",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Force Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Frost Giant Strength",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Gaseous Form",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Giant Size",
+		"source": "SKT"
+	},
+	{
+		"name": "Potion of Greater Healing",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Growth",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Healing",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Heroism",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Hill Giant Strength",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Invisibility",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Invulnerability",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Lightning Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Longevity",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Mind Reading",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Necrotic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Poison",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Poison Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Psychic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Radiant Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Speed",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Stone Giant Strength",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Storm Giant Strength",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Superior Healing",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Supreme Healing",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Thunder Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Vitality",
+		"source": "DMG"
+	},
+	{
+		"name": "Potion of Water Breathing",
+		"source": "DMG"
+	},
+	{
+		"name": "Potter's Tools",
+		"source": "PHB"
+	},
+	{
+		"name": "Pouch",
+		"source": "PHB"
+	},
+	{
+		"name": "Priest's Pack",
+		"source": "PHB"
+	},
+	{
+		"name": "Purple Worm Poison (Injury)",
+		"source": "DMG"
+	},
+	{
+		"name": "Quaal's Feather Token, Anchor",
+		"source": "DMG"
+	},
+	{
+		"name": "Quaal's Feather Token, Bird",
+		"source": "DMG"
+	},
+	{
+		"name": "Quaal's Feather Token, Fan",
+		"source": "DMG"
+	},
+	{
+		"name": "Quaal's Feather Token, Swan Boat",
+		"source": "DMG"
+	},
+	{
+		"name": "Quaal's Feather Token, Tree",
+		"source": "DMG"
+	},
+	{
+		"name": "Quaal's Feather Token, Whip",
+		"source": "DMG"
+	},
+	{
+		"name": "Quiver",
+		"source": "PHB"
+	},
+	{
+		"name": "Quiver of Ehlonna",
+		"source": "DMG"
+	},
+	{
+		"name": "Rations (1 day)",
+		"source": "PHB"
+	},
+	{
+		"name": "Red Dragon Mask",
+		"source": "RoTOS"
+	},
+	{
+		"name": "Red Dragon Scale Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Acid Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Air Elemental Command",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Animal Influence",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Cold Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Djinni Summoning",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Earth Elemental Command",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Evasion",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Feather Falling",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Fire Elemental Command",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Fire Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Force Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Free Action",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Invisibility",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Jumping",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Lightning Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Mind Shielding",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Necrotic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Poison Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Protection",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Psychic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Radiant Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Regeneration",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Shooting Stars",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Spell Storing",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Spell Turning",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Swimming",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Telekinesis",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Three Wishes",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Thunder Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Warmth",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Water Elemental Command",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of Water Walking",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of X-ray Vision",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring of the Ram",
+		"source": "DMG"
+	},
+	{
+		"name": "Robe of Eyes",
+		"source": "DMG"
+	},
+	{
+		"name": "Robe of Scintillating Colors",
+		"source": "DMG"
+	},
+	{
+		"name": "Robe of Serpents",
+		"source": "SKT"
+	},
+	{
+		"name": "Robe of Stars",
+		"source": "DMG"
+	},
+	{
+		"name": "Robe of Useful Items",
+		"source": "DMG"
+	},
+	{
+		"name": "Robe of the Archmagi",
+		"source": "DMG"
+	},
+	{
+		"name": "Robes",
+		"source": "PHB"
+	},
+	{
+		"name": "Rod",
+		"source": "PHB"
+	},
+	{
+		"name": "Rod of Absorption",
+		"source": "DMG"
+	},
+	{
+		"name": "Rod of Alertness",
+		"source": "DMG"
+	},
+	{
+		"name": "Rod of Lordly Might",
+		"source": "DMG"
+	},
+	{
+		"name": "Rod of Resurrection",
+		"source": "DMG"
+	},
+	{
+		"name": "Rod of Rulership",
+		"source": "DMG"
+	},
+	{
+		"name": "Rod of Security",
+		"source": "DMG"
+	},
+	{
+		"name": "Rod of the Pact Keeper, +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Rod of the Pact Keeper, +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Rod of the Pact Keeper, +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Rod of the Vonindod",
+		"source": "SKT"
+	},
+	{
+		"name": "Rope of Climbing",
+		"source": "DMG"
+	},
+	{
+		"name": "Rope of Entanglement",
+		"source": "DMG"
+	},
+	{
+		"name": "Sack",
+		"source": "PHB"
+	},
+	{
+		"name": "Saddle of the Cavalier",
+		"source": "DMG"
+	},
+	{
+		"name": "Saint Markovia's Thighbone",
+		"source": "CoS"
+	},
+	{
+		"name": "Scarab of Protection",
+		"source": "DMG"
+	},
+	{
+		"name": "Scholar's Pack",
+		"source": "PHB"
+	},
+	{
+		"name": "Scroll of Protection from Aberrations",
+		"source": "DMG"
+	},
+	{
+		"name": "Scroll of Protection from Beasts",
+		"source": "DMG"
+	},
+	{
+		"name": "Scroll of Protection from Celestials",
+		"source": "DMG"
+	},
+	{
+		"name": "Scroll of Protection from Elementals",
+		"source": "DMG"
+	},
+	{
+		"name": "Scroll of Protection from Fey",
+		"source": "DMG"
+	},
+	{
+		"name": "Scroll of Protection from Fiends",
+		"source": "DMG"
+	},
+	{
+		"name": "Scroll of Protection from Plants",
+		"source": "DMG"
+	},
+	{
+		"name": "Scroll of Protection from Undead",
+		"source": "DMG"
+	},
+	{
+		"name": "Sealing Wax",
+		"source": "PHB"
+	},
+	{
+		"name": "Seeker Dart",
+		"source": "PotA"
+	},
+	{
+		"name": "Sending Stones",
+		"source": "DMG"
+	},
+	{
+		"name": "Sentinel Shield",
+		"source": "DMG"
+	},
+	{
+		"name": "Serpent Venom (Injury)",
+		"source": "DMG"
+	},
+	{
+		"name": "Shard of the Ise Rune",
+		"source": "SKT"
+	},
+	{
+		"name": "Shawm",
+		"source": "PHB"
+	},
+	{
+		"name": "Shield of Far Sight",
+		"source": "VGM"
+	},
+	{
+		"name": "Shield of Missile Attraction",
+		"source": "DMG"
+	},
+	{
+		"name": "Shovel",
+		"source": "PHB"
+	},
+	{
+		"name": "Signal Whistle",
+		"source": "PHB"
+	},
+	{
+		"name": "Signet Ring",
+		"source": "PHB"
+	},
+	{
+		"name": "Silk Rope (50 feet)",
+		"source": "PHB"
+	},
+	{
+		"name": "Silver (sp)",
+		"source": "PHB"
+	},
+	{
+		"name": "Silver Dragon Scale Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Sledge Hammer",
+		"source": "PHB"
+	},
+	{
+		"name": "Slippers of Spider Climbing",
+		"source": "DMG"
+	},
+	{
+		"name": "Smith's Tools",
+		"source": "PHB"
+	},
+	{
+		"name": "Soap",
+		"source": "PHB"
+	},
+	{
+		"name": "Sovereign Glue",
+		"source": "DMG"
+	},
+	{
+		"name": "Spell Gem (Amber)",
+		"source": "OotA"
+	},
+	{
+		"name": "Spell Gem (Bloodstone)",
+		"source": "OotA"
+	},
+	{
+		"name": "Spell Gem (Diamond)",
+		"source": "OotA"
+	},
+	{
+		"name": "Spell Gem (Jade)",
+		"source": "OotA"
+	},
+	{
+		"name": "Spell Gem (Lapis lazuli)",
+		"source": "OotA"
+	},
+	{
+		"name": "Spell Gem (Obsidian)",
+		"source": "OotA"
+	},
+	{
+		"name": "Spell Gem (Quartz)",
+		"source": "OotA"
+	},
+	{
+		"name": "Spell Gem (Ruby)",
+		"source": "OotA"
+	},
+	{
+		"name": "Spell Gem (Star ruby)",
+		"source": "OotA"
+	},
+	{
+		"name": "Spell Gem (Topaz)",
+		"source": "OotA"
+	},
+	{
+		"name": "Spell Scroll (1st Level)",
+		"source": "DMG"
+	},
+	{
+		"name": "Spell Scroll (2nd Level)",
+		"source": "DMG"
+	},
+	{
+		"name": "Spell Scroll (3rd Level)",
+		"source": "DMG"
+	},
+	{
+		"name": "Spell Scroll (4th Level)",
+		"source": "DMG"
+	},
+	{
+		"name": "Spell Scroll (5th Level)",
+		"source": "DMG"
+	},
+	{
+		"name": "Spell Scroll (6th Level)",
+		"source": "DMG"
+	},
+	{
+		"name": "Spell Scroll (7th Level)",
+		"source": "DMG"
+	},
+	{
+		"name": "Spell Scroll (8th Level)",
+		"source": "DMG"
+	},
+	{
+		"name": "Spell Scroll (9th Level)",
+		"source": "DMG"
+	},
+	{
+		"name": "Spell Scroll (Cantrip)",
+		"source": "DMG"
+	},
+	{
+		"name": "Spellbook",
+		"source": "PHB"
+	},
+	{
+		"name": "Spellguard Shield",
+		"source": "DMG"
+	},
+	{
+		"name": "Sphere of Annihilation",
+		"source": "DMG"
+	},
+	{
+		"name": "Spider Staff",
+		"source": "LMoP"
+	},
+	{
+		"name": "Sprig of Mistletoe",
+		"source": "PHB"
+	},
+	{
+		"name": "Spyglass",
+		"source": "PHB"
+	},
+	{
+		"name": "Staff",
+		"source": "PHB"
+	},
+	{
+		"name": "Staff of Charming",
+		"source": "DMG"
+	},
+	{
+		"name": "Staff of Defense",
+		"source": "LMoP"
+	},
+	{
+		"name": "Staff of Fire",
+		"source": "DMG"
+	},
+	{
+		"name": "Staff of Frost",
+		"source": "DMG"
+	},
+	{
+		"name": "Staff of Healing",
+		"source": "DMG"
+	},
+	{
+		"name": "Staff of Power",
+		"source": "DMG"
+	},
+	{
+		"name": "Staff of Striking",
+		"source": "DMG"
+	},
+	{
+		"name": "Staff of Swarming Insects",
+		"source": "DMG"
+	},
+	{
+		"name": "Staff of Thunder and Lightning",
+		"source": "DMG"
+	},
+	{
+		"name": "Staff of Withering",
+		"source": "DMG"
+	},
+	{
+		"name": "Staff of the Adder",
+		"source": "DMG"
+	},
+	{
+		"name": "Staff of the Magi",
+		"source": "DMG"
+	},
+	{
+		"name": "Staff of the Python",
+		"source": "DMG"
+	},
+	{
+		"name": "Staff of the Woodlands",
+		"source": "DMG"
+	},
+	{
+		"name": "Steel Mirror",
+		"source": "PHB"
+	},
+	{
+		"name": "Stone of Controlling Earth Elementals",
+		"source": "DMG"
+	},
+	{
+		"name": "Stone of Good Luck",
+		"source": "DMG"
+	},
+	{
+		"name": "Stonespeaker Crystal",
+		"source": "OotA"
+	},
+	{
+		"name": "Storm Boomerang",
+		"source": "PotA"
+	},
+	{
+		"name": "Sun Blade",
+		"source": "DMG"
+	},
+	{
+		"name": "Sunsword",
+		"source": "CoS"
+	},
+	{
+		"name": "Sword of Kas",
+		"source": "DMG"
+	},
+	{
+		"name": "Talisman of Pure Good",
+		"source": "DMG"
+	},
+	{
+		"name": "Talisman of Ultimate Evil",
+		"source": "DMG"
+	},
+	{
+		"name": "Talisman of the Sphere",
+		"source": "DMG"
+	},
+	{
+		"name": "Tankard",
+		"source": "PHB"
+	},
+	{
+		"name": "Tentacle Rod",
+		"source": "DMG"
+	},
+	{
+		"name": "Thieves' Tools",
+		"source": "PHB"
+	},
+	{
+		"name": "Three-Dragon Ante Set",
+		"source": "PHB"
+	},
+	{
+		"name": "Tinderbox",
+		"source": "PHB"
+	},
+	{
+		"name": "Tinderstrike",
+		"source": "PotA"
+	},
+	{
+		"name": "Tinker's Tools",
+		"source": "PHB"
+	},
+	{
+		"name": "Tome of Clear Thought",
+		"source": "DMG"
+	},
+	{
+		"name": "Tome of Leadership and Influence",
+		"source": "DMG"
+	},
+	{
+		"name": "Tome of Strahd",
+		"source": "CoS"
+	},
+	{
+		"name": "Tome of Understanding",
+		"source": "DMG"
+	},
+	{
+		"name": "Tome of the Stilled Tongue",
+		"source": "DMG"
+	},
+	{
+		"name": "Torch",
+		"source": "PHB"
+	},
+	{
+		"name": "Torpor (Ingested)",
+		"source": "DMG"
+	},
+	{
+		"name": "Totem",
+		"source": "PHB"
+	},
+	{
+		"name": "Traveler's Clothes",
+		"source": "PHB"
+	},
+	{
+		"name": "Trident of Fish Command",
+		"source": "DMG"
+	},
+	{
+		"name": "Trinket (PHB)",
+		"source": "PHB"
+	},
+	{
+		"name": "Trinket (CoS)",
+		"source": "CoS"
+	},
+	{
+		"name": "Trinket (EET)",
+		"source": "EET"
+	},
+	{
+		"name": "Truth Serum (Ingested)",
+		"source": "DMG"
+	},
+	{
+		"name": "Two-Person Tent",
+		"source": "PHB"
+	},
+	{
+		"name": "Universal Solvent",
+		"source": "DMG"
+	},
+	{
+		"name": "Vial",
+		"source": "PHB"
+	},
+	{
+		"name": "Viol",
+		"source": "PHB"
+	},
+	{
+		"name": "Wand",
+		"source": "PHB"
+	},
+	{
+		"name": "Wand of Binding",
+		"source": "DMG"
+	},
+	{
+		"name": "Wand of Enemy Detection",
+		"source": "DMG"
+	},
+	{
+		"name": "Wand of Fear",
+		"source": "DMG"
+	},
+	{
+		"name": "Wand of Fireballs",
+		"source": "DMG"
+	},
+	{
+		"name": "Wand of Lightning Bolts",
+		"source": "DMG"
+	},
+	{
+		"name": "Wand of Magic Detection",
+		"source": "DMG"
+	},
+	{
+		"name": "Wand of Magic Missiles",
+		"source": "DMG"
+	},
+	{
+		"name": "Wand of Orcus",
+		"source": "DMG"
+	},
+	{
+		"name": "Wand of Paralysis",
+		"source": "DMG"
+	},
+	{
+		"name": "Wand of Polymorph",
+		"source": "DMG"
+	},
+	{
+		"name": "Wand of Secrets",
+		"source": "DMG"
+	},
+	{
+		"name": "Wand of Viscid Globs",
+		"source": "OotA"
+	},
+	{
+		"name": "Wand of Web",
+		"source": "DMG"
+	},
+	{
+		"name": "Wand of Winter",
+		"source": "HotDQ"
+	},
+	{
+		"name": "Wand of Wonder",
+		"source": "DMG"
+	},
+	{
+		"name": "Wand of the War Mage, +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Wand of the War Mage, +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Wand of the War Mage, +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Waterskin",
+		"source": "PHB"
+	},
+	{
+		"name": "Wave",
+		"source": "DMG"
+	},
+	{
+		"name": "Weaver's Tools",
+		"source": "PHB"
+	},
+	{
+		"name": "Weird Tank",
+		"source": "PotA"
+	},
+	{
+		"name": "Well of Many Worlds",
+		"source": "DMG"
+	},
+	{
+		"name": "Whelm",
+		"source": "DMG"
+	},
+	{
+		"name": "Whetstone",
+		"source": "PHB"
+	},
+	{
+		"name": "White Dragon Mask",
+		"source": "RoTOS"
+	},
+	{
+		"name": "White Dragon Scale Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Wind Fan",
+		"source": "DMG"
+	},
+	{
+		"name": "Windvane",
+		"source": "PotA"
+	},
+	{
+		"name": "Winged Boots",
+		"source": "DMG"
+	},
+	{
+		"name": "Wings of Flying",
+		"source": "DMG"
+	},
+	{
+		"name": "Wingwear",
+		"source": "PotA"
+	},
+	{
+		"name": "Woodcarver's Tools",
+		"source": "PHB"
+	},
+	{
+		"name": "Wooden Staff",
+		"source": "PHB"
+	},
+	{
+		"name": "Wyrmskull Throne",
+		"source": "SKT"
+	},
+	{
+		"name": "Wyvern Poison (Injury)",
+		"source": "DMG"
+	},
+	{
+		"name": "Yew Wand",
+		"source": "PHB"
+	},
+	{
+		"name": "Hacking Tools",
+		"source": "UAModernMagic"
+	},
+	{
+		"name": "Bomb",
+		"source": "DMG"
+	},
+	{
+		"name": "Gunpowder Keg",
+		"source": "DMG"
+	},
+	{
+		"name": "Gunpowder Horn",
+		"source": "DMG"
+	},
+	{
+		"name": "Dynamite (Stick)",
+		"source": "DMG"
+	},
+	{
+		"name": "Fragmentation Grenade",
+		"source": "DMG"
+	},
+	{
+		"name": "Smoke Grenade",
+		"source": "DMG"
+	},
+	{
+		"name": "Grenade Launcher",
+		"source": "DMG"
+	},
+	{
+		"name": "Camel",
+		"source": "PHB"
+	},
+	{
+		"name": "Donkey",
+		"source": "PHB"
+	},
+	{
+		"name": "Mule",
+		"source": "PHB"
+	},
+	{
+		"name": "Elephant",
+		"source": "PHB"
+	},
+	{
+		"name": "Draft Horse",
+		"source": "PHB"
+	},
+	{
+		"name": "Riding Horse",
+		"source": "PHB"
+	},
+	{
+		"name": "Mastiff",
+		"source": "PHB"
+	},
+	{
+		"name": "Pony",
+		"source": "PHB"
+	},
+	{
+		"name": "Warhorse",
+		"source": "PHB"
+	},
+	{
+		"name": "Barding",
+		"source": "PHB"
+	},
+	{
+		"name": "Bit and bridle",
+		"source": "PHB"
+	},
+	{
+		"name": "Feed (per day)",
+		"source": "PHB"
+	},
+	{
+		"name": "Saddlebags",
+		"source": "PHB"
+	},
+	{
+		"name": "Stabling (per day)",
+		"source": "PHB"
+	},
+	{
+		"name": "Exotic Saddle",
+		"source": "PHB"
+	},
+	{
+		"name": "Military Saddle",
+		"source": "PHB"
+	},
+	{
+		"name": "Pack Saddle",
+		"source": "PHB"
+	},
+	{
+		"name": "Riding Saddle",
+		"source": "PHB"
+	},
+	{
+		"name": "Carriage",
+		"source": "PHB"
+	},
+	{
+		"name": "Cart",
+		"source": "PHB"
+	},
+	{
+		"name": "Chariot",
+		"source": "PHB"
+	},
+	{
+		"name": "Sled",
+		"source": "PHB"
+	},
+	{
+		"name": "Wagon",
+		"source": "PHB"
+	},
+	{
+		"name": "Airship",
+		"source": "DMG"
+	},
+	{
+		"name": "Galley",
+		"source": "DMG"
+	},
+	{
+		"name": "Keelboat",
+		"source": "DMG"
+	},
+	{
+		"name": "Longship",
+		"source": "DMG"
+	},
+	{
+		"name": "Rowboat",
+		"source": "DMG"
+	},
+	{
+		"name": "Sailing Ship",
+		"source": "DMG"
+	},
+	{
+		"name": "Warship",
+		"source": "DMG"
+	},
+	{
+		"name": "Wheat",
+		"source": "PHB"
+	},
+	{
+		"name": "Flour",
+		"source": "PHB"
+	},
+	{
+		"name": "Chicken",
+		"source": "PHB"
+	},
+	{
+		"name": "Salt",
+		"source": "PHB"
+	},
+	{
+		"name": "Iron",
+		"source": "PHB"
+	},
+	{
+		"name": "Canvas (1 sq. yd.)",
+		"source": "PHB"
+	},
+	{
+		"name": "Copper",
+		"source": "PHB"
+	},
+	{
+		"name": "Cotton Cloth (1 sq. yd.)",
+		"source": "PHB"
+	},
+	{
+		"name": "Ginger",
+		"source": "PHB"
+	},
+	{
+		"name": "Goat",
+		"source": "PHB"
+	},
+	{
+		"name": "Cinnamon",
+		"source": "PHB"
+	},
+	{
+		"name": "Pepper",
+		"source": "PHB"
+	},
+	{
+		"name": "Sheep",
+		"source": "PHB"
+	},
+	{
+		"name": "Cloves",
+		"source": "PHB"
+	},
+	{
+		"name": "Pig",
+		"source": "PHB"
+	},
+	{
+		"name": "Silver",
+		"source": "PHB"
+	},
+	{
+		"name": "Linen (1 sq. yd.)",
+		"source": "PHB"
+	},
+	{
+		"name": "Silk (1 sq. yd.)",
+		"source": "PHB"
+	},
+	{
+		"name": "Cow",
+		"source": "PHB"
+	},
+	{
+		"name": "Saffron",
+		"source": "PHB"
+	},
+	{
+		"name": "Ox",
+		"source": "PHB"
+	},
+	{
+		"name": "Gold",
+		"source": "PHB"
+	},
+	{
+		"name": "Platinum",
+		"source": "PHB"
+	},
+	{
+		"name": "Amulet of Protection from Turning",
+		"source": "TftYP"
+	},
+	{
+		"name": "Balance of Harmony",
+		"source": "TftYP"
+	},
+	{
+		"name": "Bracelet of Rock Magic",
+		"source": "TftYP"
+	},
+	{
+		"name": "Eagle Whistle",
+		"source": "TftYP"
+	},
+	{
+		"name": "Hell Hound Cloak",
+		"source": "TftYP"
+	},
+	{
+		"name": "Load Stone",
+		"source": "TftYP"
+	},
+	{
+		"name": "Mirror of the Past",
+		"source": "TftYP"
+	},
+	{
+		"name": "Night Caller",
+		"source": "TftYP"
+	},
+	{
+		"name": "Potion of Mind Control (beast)",
+		"source": "TftYP"
+	},
+	{
+		"name": "Potion of Mind Control (humanoid)",
+		"source": "TftYP"
+	},
+	{
+		"name": "Potion of Mind Control (monster)",
+		"source": "TftYP"
+	},
+	{
+		"name": "Robe of Summer",
+		"source": "TftYP"
+	},
+	{
+		"name": "Shatterspike",
+		"source": "TftYP"
+	},
+	{
+		"name": "Spear of Backbiting",
+		"source": "TftYP"
+	},
+	{
+		"name": "Javelin of Backbiting",
+		"source": "TftYP"
+	},
+	{
+		"name": "Stone of Ill Luck",
+		"source": "TftYP"
+	},
+	{
+		"name": "Wand of Entangle",
+		"source": "TftYP"
+	},
+	{
+		"name": "Waythe",
+		"source": "TftYP"
+	},
+	{
+		"name": "Bookmark",
+		"source": "ToA"
+	},
+	{
+		"name": "Staff of the Forgotten One",
+		"source": "ToA"
+	},
+	{
+		"name": "Amulet of the Black Skull",
+		"source": "ToA"
+	},
+	{
+		"name": "Ghost Lantern",
+		"source": "ToA"
+	},
+	{
+		"name": "Mask of the Beast",
+		"source": "ToA"
+	},
+	{
+		"name": "Ring of Winter",
+		"source": "ToA"
+	},
+	{
+		"name": "Canoe",
+		"source": "ToA"
+	},
+	{
+		"name": "Dancing Monkey Fruit",
+		"source": "ToA"
+	},
+	{
+		"name": "Menga leaves (1 ounce)",
+		"source": "ToA"
+	},
+	{
+		"name": "Ryath Root",
+		"source": "ToA"
+	},
+	{
+		"name": "Sinda berries (10)",
+		"source": "ToA"
+	},
+	{
+		"name": "Wildroot",
+		"source": "ToA"
+	},
+	{
+		"name": "Wukka Nut",
+		"source": "ToA"
+	},
+	{
+		"name": "Yahcha",
+		"source": "ToA"
+	},
+	{
+		"name": "Zabou",
+		"source": "ToA"
+	},
+	{
+		"name": "Insect Repellent (block of incense)",
+		"source": "ToA"
+	},
+	{
+		"name": "Insect Repellent (greasy salve)",
+		"source": "ToA"
+	},
+	{
+		"name": "Rain Catcher",
+		"source": "ToA"
+	},
+	{
+		"name": "Tej",
+		"source": "ToA"
+	},
+	{
+		"name": "Scorpion Armor",
+		"source": "ToA"
+	},
+	{
+		"name": "Bead of Nourishment",
+		"source": "XGE"
+	},
+	{
+		"name": "Bead of Refreshment",
+		"source": "XGE"
+	},
+	{
+		"name": "Boots of False Tracks",
+		"source": "XGE"
+	},
+	{
+		"name": "Candle of the Deep",
+		"source": "XGE"
+	},
+	{
+		"name": "Charlatan's Die",
+		"source": "XGE"
+	},
+	{
+		"name": "Cloak of Billowing",
+		"source": "XGE"
+	},
+	{
+		"name": "Cloak of Many Fashions",
+		"source": "XGE"
+	},
+	{
+		"name": "Clockwork Amulet",
+		"source": "XGE"
+	},
+	{
+		"name": "Clothes of Mending",
+		"source": "XGE"
+	},
+	{
+		"name": "Dark Shard Amulet",
+		"source": "XGE"
+	},
+	{
+		"name": "Dread Helm",
+		"source": "XGE"
+	},
+	{
+		"name": "Ear Horn of Hearing",
+		"source": "XGE"
+	},
+	{
+		"name": "Enduring Spellbook",
+		"source": "XGE"
+	},
+	{
+		"name": "Ersatz Eye",
+		"source": "XGE"
+	},
+	{
+		"name": "Hat of Vermin",
+		"source": "XGE"
+	},
+	{
+		"name": "Hat of Wizardry",
+		"source": "XGE"
+	},
+	{
+		"name": "Heward's Handy Spice Pouch",
+		"source": "XGE"
+	},
+	{
+		"name": "Horn of Silent Alarm",
+		"source": "XGE"
+	},
+	{
+		"name": "Instrument of Illusions",
+		"source": "XGE"
+	},
+	{
+		"name": "Instrument of Scribing",
+		"source": "XGE"
+	},
+	{
+		"name": "Lock of Trickery",
+		"source": "XGE"
+	},
+	{
+		"name": "Mystery Key",
+		"source": "XGE"
+	},
+	{
+		"name": "Orb of Direction",
+		"source": "XGE"
+	},
+	{
+		"name": "Orb of Time",
+		"source": "XGE"
+	},
+	{
+		"name": "Perfume of Bewitching",
+		"source": "XGE"
+	},
+	{
+		"name": "Pipe of Smoke Monsters",
+		"source": "XGE"
+	},
+	{
+		"name": "Pole of Angling",
+		"source": "XGE"
+	},
+	{
+		"name": "Pole of Collapsing",
+		"source": "XGE"
+	},
+	{
+		"name": "Pot of Awakening",
+		"source": "XGE"
+	},
+	{
+		"name": "Rope of Mending",
+		"source": "XGE"
+	},
+	{
+		"name": "Ruby of the War Mage",
+		"source": "XGE"
+	},
+	{
+		"name": "Shield of Expression",
+		"source": "XGE"
+	},
+	{
+		"name": "Staff of Adornment",
+		"source": "XGE"
+	},
+	{
+		"name": "Staff of Birdcalls",
+		"source": "XGE"
+	},
+	{
+		"name": "Staff of Flowers",
+		"source": "XGE"
+	},
+	{
+		"name": "Talking Doll",
+		"source": "XGE"
+	},
+	{
+		"name": "Tankard of Sobriety",
+		"source": "XGE"
+	},
+	{
+		"name": "Unbreakable Arrow",
+		"source": "XGE"
+	},
+	{
+		"name": "Veteran's Cane",
+		"source": "XGE"
+	},
+	{
+		"name": "Wand of Conducting",
+		"source": "XGE"
+	},
+	{
+		"name": "Wand of Pyrotechnics",
+		"source": "XGE"
+	},
+	{
+		"name": "Wand of Scowls",
+		"source": "XGE"
+	},
+	{
+		"name": "Wand of Smiles",
+		"source": "XGE"
+	},
+	{
+		"name": "Scimitar of Speed",
+		"source": "DMG"
+	},
+	{
+		"name": "Sword of Answering (Answerer)",
+		"source": "DMG"
+	},
+	{
+		"name": "Sword of Answering (Back Talker)",
+		"source": "DMG"
+	},
+	{
+		"name": "Sword of Answering (Concluder)",
+		"source": "DMG"
+	},
+	{
+		"name": "Sword of Answering (Last Quip)",
+		"source": "DMG"
+	},
+	{
+		"name": "Sword of Answering (Rebutter)",
+		"source": "DMG"
+	},
+	{
+		"name": "Sword of Answering (Replier)",
+		"source": "DMG"
+	},
+	{
+		"name": "Sword of Answering (Retorter)",
+		"source": "DMG"
+	},
+	{
+		"name": "Sword of Answering (Scather)",
+		"source": "DMG"
+	},
+	{
+		"name": "Sword of Answering (Squelcher)",
+		"source": "DMG"
+	},
+	{
+		"name": "Lightbringer",
+		"source": "LMoP"
+	},
+	{
+		"name": "Dragonguard",
+		"source": "LMoP"
+	},
+	{
+		"name": "Battleaxe",
+		"source": "PHB"
+	},
+	{
+		"name": "Blowgun",
+		"source": "PHB"
+	},
+	{
+		"name": "Club",
+		"source": "PHB"
+	},
+	{
+		"name": "Dagger",
+		"source": "PHB"
+	},
+	{
+		"name": "Dart",
+		"source": "PHB"
+	},
+	{
+		"name": "Flail",
+		"source": "PHB"
+	},
+	{
+		"name": "Glaive",
+		"source": "PHB"
+	},
+	{
+		"name": "Greataxe",
+		"source": "PHB"
+	},
+	{
+		"name": "Greatclub",
+		"source": "PHB"
+	},
+	{
+		"name": "Greatsword",
+		"source": "PHB"
+	},
+	{
+		"name": "Halberd",
+		"source": "PHB"
+	},
+	{
+		"name": "Handaxe",
+		"source": "PHB"
+	},
+	{
+		"name": "Hand Crossbow",
+		"source": "PHB"
+	},
+	{
+		"name": "Heavy Crossbow",
+		"source": "PHB"
+	},
+	{
+		"name": "Javelin",
+		"source": "PHB"
+	},
+	{
+		"name": "Lance",
+		"source": "PHB"
+	},
+	{
+		"name": "Light Crossbow",
+		"source": "PHB"
+	},
+	{
+		"name": "Light Hammer",
+		"source": "PHB"
+	},
+	{
+		"name": "Longbow",
+		"source": "PHB"
+	},
+	{
+		"name": "Longsword",
+		"source": "PHB"
+	},
+	{
+		"name": "Mace",
+		"source": "PHB"
+	},
+	{
+		"name": "Maul",
+		"source": "PHB"
+	},
+	{
+		"name": "Morningstar",
+		"source": "PHB"
+	},
+	{
+		"name": "Net",
+		"source": "PHB"
+	},
+	{
+		"name": "Pike",
+		"source": "PHB"
+	},
+	{
+		"name": "Quarterstaff",
+		"source": "PHB"
+	},
+	{
+		"name": "Rapier",
+		"source": "PHB"
+	},
+	{
+		"name": "Scimitar",
+		"source": "PHB"
+	},
+	{
+		"name": "Shortbow",
+		"source": "PHB"
+	},
+	{
+		"name": "Shortsword",
+		"source": "PHB"
+	},
+	{
+		"name": "Sickle",
+		"source": "PHB"
+	},
+	{
+		"name": "Sling",
+		"source": "PHB"
+	},
+	{
+		"name": "Spear",
+		"source": "PHB"
+	},
+	{
+		"name": "Trident",
+		"source": "PHB"
+	},
+	{
+		"name": "War Pick",
+		"source": "PHB"
+	},
+	{
+		"name": "Warhammer",
+		"source": "PHB"
+	},
+	{
+		"name": "Whip",
+		"source": "PHB"
+	},
+	{
+		"name": "Yklwa",
+		"source": "ToA"
+	},
+	{
+		"name": "Pistol",
+		"source": "DMG"
+	},
+	{
+		"name": "Musket",
+		"source": "DMG"
+	},
+	{
+		"name": "Automatic Pistol",
+		"source": "DMG"
+	},
+	{
+		"name": "Revolver",
+		"source": "DMG"
+	},
+	{
+		"name": "Hunting Rifle",
+		"source": "DMG"
+	},
+	{
+		"name": "Automatic Rifle",
+		"source": "DMG"
+	},
+	{
+		"name": "Shotgun",
+		"source": "DMG"
+	},
+	{
+		"name": "Laser Pistol",
+		"source": "DMG"
+	},
+	{
+		"name": "Antimatter Rifle",
+		"source": "DMG"
+	},
+	{
+		"name": "Laser Rifle",
+		"source": "DMG"
+	},
+	{
+		"name": "Arrow",
+		"source": "PHB"
+	},
+	{
+		"name": "Arrows (20)",
+		"source": "PHB"
+	},
+	{
+		"name": "Blowgun Needle",
+		"source": "PHB"
+	},
+	{
+		"name": "Blowgun Needles (50)",
+		"source": "PHB"
+	},
+	{
+		"name": "Crossbow Bolt",
+		"source": "PHB"
+	},
+	{
+		"name": "Crossbow Bolts (20)",
+		"source": "PHB"
+	},
+	{
+		"name": "Sling Bullet",
+		"source": "PHB"
+	},
+	{
+		"name": "Sling Bullets (20)",
+		"source": "PHB"
+	},
+	{
+		"name": "Renaissance Bullets (10)",
+		"source": "DMG"
+	},
+	{
+		"name": "Modern Bullets (10)",
+		"source": "DMG"
+	},
+	{
+		"name": "Energy Cell",
+		"source": "DMG"
+	},
+	{
+		"name": "Breastplate",
+		"source": "PHB"
+	},
+	{
+		"name": "Chain Mail",
+		"source": "PHB"
+	},
+	{
+		"name": "Chain Shirt",
+		"source": "PHB"
+	},
+	{
+		"name": "Half Plate Armor",
+		"source": "PHB"
+	},
+	{
+		"name": "Hide Armor",
+		"source": "PHB"
+	},
+	{
+		"name": "Leather Armor",
+		"source": "PHB"
+	},
+	{
+		"name": "Padded Armor",
+		"source": "PHB"
+	},
+	{
+		"name": "Plate Armor",
+		"source": "PHB"
+	},
+	{
+		"name": "Ring Mail",
+		"source": "PHB"
+	},
+	{
+		"name": "Scale Mail",
+		"source": "PHB"
+	},
+	{
+		"name": "Spiked Armor",
+		"source": "SCAG"
+	},
+	{
+		"name": "Splint Armor",
+		"source": "PHB"
+	},
+	{
+		"name": "Studded Leather Armor",
+		"source": "PHB"
+	},
+	{
+		"name": "Shield",
+		"source": "PHB"
+	},
+	{
+		"name": "Armor +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Armor +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Armor +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Shield +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Shield +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Shield +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Armor of Gleaming",
+		"source": "XGE"
+	},
+	{
+		"name": "Armor of Acid Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Armor of Cold Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Armor of Fire Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Armor of Force Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Armor of Lightning Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Armor of Necrotic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Armor of Poison Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Armor of Psychic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Armor of Radiant Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Armor of Thunder Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Armor Medium",
+		"source": "DMG"
+	},
+	{
+		"name": "Cast-Off Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Mariner's Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Mind Carapace Armor",
+		"source": "VGM"
+	},
+	{
+		"name": "Mithral Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Mithral Armor Medium",
+		"source": "DMG"
+	},
+	{
+		"name": "Moon-Touched Sword",
+		"source": "XGE"
+	},
+	{
+		"name": "Smoldering Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Arrow of Slaying (Generic)",
+		"source": "DMG"
+	},
+	{
+		"name": "Ammunition +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Ammunition +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Ammunition +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Walloping Ammunition",
+		"source": "XGE"
+	},
+	{
+		"name": "Weapon (no damage) +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Weapon (no damage) +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Weapon (no damage) +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Weapon +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Weapon +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Weapon +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Weapon of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Berserker Axe",
+		"source": "DMG"
+	},
+	{
+		"name": "Dancing Sword",
+		"source": "DMG"
+	},
+	{
+		"name": "Defender",
+		"source": "DMG"
+	},
+	{
+		"name": "Dragon Slayer",
+		"source": "DMG"
+	},
+	{
+		"name": "Flame Tongue",
+		"source": "DMG"
+	},
+	{
+		"name": "Frost Brand",
+		"source": "DMG"
+	},
+	{
+		"name": "Giant Slayer",
+		"source": "DMG"
+	},
+	{
+		"name": "Giant Slayer Sword",
+		"source": "DMG"
+	},
+	{
+		"name": "Holy Avenger",
+		"source": "DMG"
+	},
+	{
+		"name": "Luck Blade",
+		"source": "DMG"
+	},
+	{
+		"name": "Mind Blade",
+		"source": "VGM"
+	},
+	{
+		"name": "Nine Lives Stealer",
+		"source": "DMG"
+	},
+	{
+		"name": "Sword of Life Stealing",
+		"source": "DMG"
+	},
+	{
+		"name": "Sword of Sharpness",
+		"source": "DMG"
+	},
+	{
+		"name": "Sword of Vengeance",
+		"source": "DMG"
+	},
+	{
+		"name": "Sword of Wounding",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Weapon",
+		"source": "DMG"
+	},
+	{
+		"name": "Vorpal Sword",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Weapon",
+		"source": "XGE"
+	},
+	{
+		"name": "Adamantine Ammunition",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Weapon",
+		"source": "PHB"
+	},
+	{
+		"name": "Silvered Ammunition",
+		"source": "PHB"
+	},
+	{
+		"name": "Battleaxe +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Battleaxe +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Battleaxe +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Battleaxe of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Berserker Battleaxe",
+		"source": "DMG"
+	},
+	{
+		"name": "Giant Slayer Battleaxe",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Battleaxe",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Battleaxe",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Battleaxe",
+		"source": "PHB"
+	},
+	{
+		"name": "Blowgun +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Blowgun +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Blowgun +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Blowgun of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Blowgun",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Blowgun",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Blowgun",
+		"source": "PHB"
+	},
+	{
+		"name": "Club +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Club +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Club +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Club of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Club",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Club",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Club",
+		"source": "PHB"
+	},
+	{
+		"name": "Dagger +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Dagger +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Dagger +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Dagger of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Dagger",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Dagger",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Dagger",
+		"source": "PHB"
+	},
+	{
+		"name": "Dart +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Dart +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Dart +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Dart of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Dart",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Dart",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Dart",
+		"source": "PHB"
+	},
+	{
+		"name": "Flail +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Flail +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Flail +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Flail of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Flail",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Flail",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Flail",
+		"source": "PHB"
+	},
+	{
+		"name": "Glaive +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Glaive +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Glaive +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Glaive of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Glaive",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Glaive",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Glaive",
+		"source": "PHB"
+	},
+	{
+		"name": "Greataxe +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Greataxe +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Greataxe +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Greataxe of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Berserker Greataxe",
+		"source": "DMG"
+	},
+	{
+		"name": "Giant Slayer Greataxe",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Greataxe",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Greataxe",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Greataxe",
+		"source": "PHB"
+	},
+	{
+		"name": "Greatclub +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Greatclub +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Greatclub +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Greatclub of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Greatclub",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Greatclub",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Greatclub",
+		"source": "PHB"
+	},
+	{
+		"name": "Moon-Touched Greatsword",
+		"source": "XGE"
+	},
+	{
+		"name": "Greatsword +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Greatsword +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Greatsword +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Greatsword of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Dancing Greatsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Defender Greatsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Dragon Slayer Greatsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Flame Tongue Greatsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Frost Brand Greatsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Giant Slayer Greatsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Holy Avenger Greatsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Luck Blade Greatsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Mind Blade Greatsword",
+		"source": "VGM"
+	},
+	{
+		"name": "Nine Lives Stealer Greatsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Greatsword of Life Stealing",
+		"source": "DMG"
+	},
+	{
+		"name": "Greatsword of Sharpness",
+		"source": "DMG"
+	},
+	{
+		"name": "Greatsword of Vengeance",
+		"source": "DMG"
+	},
+	{
+		"name": "Greatsword of Wounding",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Greatsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Vorpal Greatsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Greatsword",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Greatsword",
+		"source": "PHB"
+	},
+	{
+		"name": "Halberd +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Halberd +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Halberd +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Halberd of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Halberd",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Halberd",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Halberd",
+		"source": "PHB"
+	},
+	{
+		"name": "Handaxe +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Handaxe +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Handaxe +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Handaxe of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Berserker Handaxe",
+		"source": "DMG"
+	},
+	{
+		"name": "Giant Slayer Handaxe",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Handaxe",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Handaxe",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Handaxe",
+		"source": "PHB"
+	},
+	{
+		"name": "Hand Crossbow +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Hand Crossbow +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Hand Crossbow +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Hand Crossbow of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Hand Crossbow",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Hand Crossbow",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Hand Crossbow",
+		"source": "PHB"
+	},
+	{
+		"name": "Heavy Crossbow +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Heavy Crossbow +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Heavy Crossbow +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Heavy Crossbow of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Heavy Crossbow",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Heavy Crossbow",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Heavy Crossbow",
+		"source": "PHB"
+	},
+	{
+		"name": "Javelin +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Javelin +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Javelin +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Javelin of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Javelin",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Javelin",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Javelin",
+		"source": "PHB"
+	},
+	{
+		"name": "Lance +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Lance +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Lance +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Lance of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Lance",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Lance",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Lance",
+		"source": "PHB"
+	},
+	{
+		"name": "Light Crossbow +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Light Crossbow +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Light Crossbow +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Light Crossbow of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Light Crossbow",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Light Crossbow",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Light Crossbow",
+		"source": "PHB"
+	},
+	{
+		"name": "Light Hammer +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Light Hammer +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Light Hammer +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Light Hammer of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Light Hammer",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Light Hammer",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Light Hammer",
+		"source": "PHB"
+	},
+	{
+		"name": "Longbow +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Longbow +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Longbow +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Longbow of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Longbow",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Longbow",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Longbow",
+		"source": "PHB"
+	},
+	{
+		"name": "Moon-Touched Longsword",
+		"source": "XGE"
+	},
+	{
+		"name": "Longsword +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Longsword +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Longsword +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Longsword of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Dancing Longsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Defender Longsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Dragon Slayer Longsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Flame Tongue Longsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Frost Brand Longsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Giant Slayer Longsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Holy Avenger Longsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Luck Blade Longsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Mind Blade Longsword",
+		"source": "VGM"
+	},
+	{
+		"name": "Nine Lives Stealer Longsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Longsword of Life Stealing",
+		"source": "DMG"
+	},
+	{
+		"name": "Longsword of Sharpness",
+		"source": "DMG"
+	},
+	{
+		"name": "Longsword of Vengeance",
+		"source": "DMG"
+	},
+	{
+		"name": "Longsword of Wounding",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Longsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Vorpal Longsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Longsword",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Longsword",
+		"source": "PHB"
+	},
+	{
+		"name": "Mace +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Mace +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Mace +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Mace of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Mace",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Mace",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Mace",
+		"source": "PHB"
+	},
+	{
+		"name": "Maul +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Maul +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Maul +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Maul of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Maul",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Maul",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Maul",
+		"source": "PHB"
+	},
+	{
+		"name": "Morningstar +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Morningstar +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Morningstar +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Morningstar of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Morningstar",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Morningstar",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Morningstar",
+		"source": "PHB"
+	},
+	{
+		"name": "Net +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Net +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Net +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Net of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Pike +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Pike +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Pike +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Pike of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Pike",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Pike",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Pike",
+		"source": "PHB"
+	},
+	{
+		"name": "Quarterstaff +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Quarterstaff +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Quarterstaff +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Quarterstaff of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Quarterstaff",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Quarterstaff",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Quarterstaff",
+		"source": "PHB"
+	},
+	{
+		"name": "Moon-Touched Rapier",
+		"source": "XGE"
+	},
+	{
+		"name": "Rapier +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Rapier +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Rapier +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Rapier of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Dancing Rapier",
+		"source": "DMG"
+	},
+	{
+		"name": "Defender Rapier",
+		"source": "DMG"
+	},
+	{
+		"name": "Dragon Slayer Rapier",
+		"source": "DMG"
+	},
+	{
+		"name": "Flame Tongue Rapier",
+		"source": "DMG"
+	},
+	{
+		"name": "Frost Brand Rapier",
+		"source": "DMG"
+	},
+	{
+		"name": "Giant Slayer Rapier",
+		"source": "DMG"
+	},
+	{
+		"name": "Holy Avenger Rapier",
+		"source": "DMG"
+	},
+	{
+		"name": "Luck Blade Rapier",
+		"source": "DMG"
+	},
+	{
+		"name": "Mind Blade Rapier",
+		"source": "VGM"
+	},
+	{
+		"name": "Nine Lives Stealer Rapier",
+		"source": "DMG"
+	},
+	{
+		"name": "Rapier of Life Stealing",
+		"source": "DMG"
+	},
+	{
+		"name": "Rapier of Vengeance",
+		"source": "DMG"
+	},
+	{
+		"name": "Rapier of Wounding",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Rapier",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Rapier",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Rapier",
+		"source": "PHB"
+	},
+	{
+		"name": "Moon-Touched Scimitar",
+		"source": "XGE"
+	},
+	{
+		"name": "Scimitar +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Scimitar +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Scimitar +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Scimitar of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Dancing Scimitar",
+		"source": "DMG"
+	},
+	{
+		"name": "Defender Scimitar",
+		"source": "DMG"
+	},
+	{
+		"name": "Dragon Slayer Scimitar",
+		"source": "DMG"
+	},
+	{
+		"name": "Flame Tongue Scimitar",
+		"source": "DMG"
+	},
+	{
+		"name": "Frost Brand Scimitar",
+		"source": "DMG"
+	},
+	{
+		"name": "Giant Slayer Scimitar",
+		"source": "DMG"
+	},
+	{
+		"name": "Holy Avenger Scimitar",
+		"source": "DMG"
+	},
+	{
+		"name": "Luck Blade Scimitar",
+		"source": "DMG"
+	},
+	{
+		"name": "Mind Blade Scimitar",
+		"source": "VGM"
+	},
+	{
+		"name": "Nine Lives Stealer Scimitar",
+		"source": "DMG"
+	},
+	{
+		"name": "Scimitar of Life Stealing",
+		"source": "DMG"
+	},
+	{
+		"name": "Scimitar of Sharpness",
+		"source": "DMG"
+	},
+	{
+		"name": "Scimitar of Vengeance",
+		"source": "DMG"
+	},
+	{
+		"name": "Scimitar of Wounding",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Scimitar",
+		"source": "DMG"
+	},
+	{
+		"name": "Vorpal Scimitar",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Scimitar",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Scimitar",
+		"source": "PHB"
+	},
+	{
+		"name": "Shortbow +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Shortbow +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Shortbow +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Shortbow of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Shortbow",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Shortbow",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Shortbow",
+		"source": "PHB"
+	},
+	{
+		"name": "Moon-Touched Shortsword",
+		"source": "XGE"
+	},
+	{
+		"name": "Shortsword +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Shortsword +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Shortsword +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Shortsword of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Dancing Shortsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Defender Shortsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Dragon Slayer Shortsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Flame Tongue Shortsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Frost Brand Shortsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Giant Slayer Shortsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Holy Avenger Shortsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Luck Blade Shortsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Mind Blade Shortsword",
+		"source": "VGM"
+	},
+	{
+		"name": "Nine Lives Stealer Shortsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Shortsword of Life Stealing",
+		"source": "DMG"
+	},
+	{
+		"name": "Shortsword of Vengeance",
+		"source": "DMG"
+	},
+	{
+		"name": "Shortsword of Wounding",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Shortsword",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Shortsword",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Shortsword",
+		"source": "PHB"
+	},
+	{
+		"name": "Sickle +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Sickle +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Sickle +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Sickle of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Sickle",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Sickle",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Sickle",
+		"source": "PHB"
+	},
+	{
+		"name": "Sling +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Sling +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Sling +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Sling of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Sling",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Sling",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Sling",
+		"source": "PHB"
+	},
+	{
+		"name": "Spear +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Spear +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Spear +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Spear of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Spear",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Spear",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Spear",
+		"source": "PHB"
+	},
+	{
+		"name": "Trident +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Trident +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Trident +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Trident of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Trident",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Trident",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Trident",
+		"source": "PHB"
+	},
+	{
+		"name": "War Pick +1",
+		"source": "DMG"
+	},
+	{
+		"name": "War Pick +2",
+		"source": "DMG"
+	},
+	{
+		"name": "War Pick +3",
+		"source": "DMG"
+	},
+	{
+		"name": "War Pick of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious War Pick",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine War Pick",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered War Pick",
+		"source": "PHB"
+	},
+	{
+		"name": "Warhammer +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Warhammer +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Warhammer +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Warhammer of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Warhammer",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Warhammer",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Warhammer",
+		"source": "PHB"
+	},
+	{
+		"name": "Whip +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Whip +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Whip +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Whip of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Whip",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Whip",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Whip",
+		"source": "PHB"
+	},
+	{
+		"name": "Yklwa +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Yklwa +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Yklwa +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Yklwa of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Yklwa",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Yklwa",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Yklwa",
+		"source": "PHB"
+	},
+	{
+		"name": "Pistol +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Pistol +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Pistol +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Pistol of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Pistol",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Pistol",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Pistol",
+		"source": "PHB"
+	},
+	{
+		"name": "Musket +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Musket +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Musket +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Musket of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Musket",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Musket",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Musket",
+		"source": "PHB"
+	},
+	{
+		"name": "Automatic Pistol +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Automatic Pistol +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Automatic Pistol +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Automatic Pistol of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Automatic Pistol",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Automatic Pistol",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Automatic Pistol",
+		"source": "PHB"
+	},
+	{
+		"name": "Revolver +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Revolver +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Revolver +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Revolver of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Revolver",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Revolver",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Revolver",
+		"source": "PHB"
+	},
+	{
+		"name": "Hunting Rifle +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Hunting Rifle +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Hunting Rifle +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Hunting Rifle of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Hunting Rifle",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Hunting Rifle",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Hunting Rifle",
+		"source": "PHB"
+	},
+	{
+		"name": "Automatic Rifle +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Automatic Rifle +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Automatic Rifle +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Automatic Rifle of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Automatic Rifle",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Automatic Rifle",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Automatic Rifle",
+		"source": "PHB"
+	},
+	{
+		"name": "Shotgun +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Shotgun +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Shotgun +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Shotgun of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Shotgun",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Shotgun",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Shotgun",
+		"source": "PHB"
+	},
+	{
+		"name": "Laser Pistol +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Laser Pistol +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Laser Pistol +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Laser Pistol of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Laser Pistol",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Laser Pistol",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Laser Pistol",
+		"source": "PHB"
+	},
+	{
+		"name": "Antimatter Rifle +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Antimatter Rifle +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Antimatter Rifle +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Antimatter Rifle of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Antimatter Rifle",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Antimatter Rifle",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Antimatter Rifle",
+		"source": "PHB"
+	},
+	{
+		"name": "Laser Rifle +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Laser Rifle +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Laser Rifle +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Laser Rifle of Warning",
+		"source": "DMG"
+	},
+	{
+		"name": "Vicious Laser Rifle",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Laser Rifle",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Laser Rifle",
+		"source": "PHB"
+	},
+	{
+		"name": "Arrow of Slaying",
+		"source": "DMG"
+	},
+	{
+		"name": "Arrow +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Arrow +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Arrow +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Walloping Arrow",
+		"source": "XGE"
+	},
+	{
+		"name": "Adamantine Arrow",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Arrow",
+		"source": "PHB"
+	},
+	{
+		"name": "Blowgun Needle of Slaying",
+		"source": "DMG"
+	},
+	{
+		"name": "Blowgun Needle +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Blowgun Needle +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Blowgun Needle +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Walloping Blowgun Needle",
+		"source": "XGE"
+	},
+	{
+		"name": "Adamantine Blowgun Needle",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Blowgun Needle",
+		"source": "PHB"
+	},
+	{
+		"name": "Crossbow Bolt of Slaying",
+		"source": "DMG"
+	},
+	{
+		"name": "Crossbow Bolt +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Crossbow Bolt +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Crossbow Bolt +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Walloping Crossbow Bolt",
+		"source": "XGE"
+	},
+	{
+		"name": "Adamantine Crossbow Bolt",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Crossbow Bolt",
+		"source": "PHB"
+	},
+	{
+		"name": "Sling Bullet of Slaying",
+		"source": "DMG"
+	},
+	{
+		"name": "Sling Bullet +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Sling Bullet +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Sling Bullet +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Walloping Sling Bullet",
+		"source": "XGE"
+	},
+	{
+		"name": "Adamantine Sling Bullet",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Sling Bullet",
+		"source": "PHB"
+	},
+	{
+		"name": "Energy Cell +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Energy Cell +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Energy Cell +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Walloping Energy Cell",
+		"source": "XGE"
+	},
+	{
+		"name": "Adamantine Energy Cell",
+		"source": "XGE"
+	},
+	{
+		"name": "Silvered Energy Cell",
+		"source": "PHB"
+	},
+	{
+		"name": "Breastplate +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Breastplate +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Breastplate +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Breastplate of Gleaming",
+		"source": "XGE"
+	},
+	{
+		"name": "Breastplate of Acid Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Breastplate of Cold Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Breastplate of Fire Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Breastplate of Force Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Breastplate of Lightning Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Breastplate of Necrotic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Breastplate of Poison Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Breastplate of Psychic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Breastplate of Radiant Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Breastplate of Thunder Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Breastplate",
+		"source": "DMG"
+	},
+	{
+		"name": "Cast-Off Breastplate",
+		"source": "XGE"
+	},
+	{
+		"name": "Mariner's Breastplate",
+		"source": "DMG"
+	},
+	{
+		"name": "Mithral Breastplate",
+		"source": "DMG"
+	},
+	{
+		"name": "Smoldering Breastplate",
+		"source": "XGE"
+	},
+	{
+		"name": "Chain Mail +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Mail +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Mail +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Mail of Gleaming",
+		"source": "XGE"
+	},
+	{
+		"name": "Chain Mail of Acid Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Mail of Cold Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Mail of Fire Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Mail of Force Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Mail of Lightning Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Mail of Necrotic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Mail of Poison Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Mail of Psychic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Mail of Radiant Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Mail of Thunder Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Chain Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Cast-Off Chain Mail",
+		"source": "XGE"
+	},
+	{
+		"name": "Mariner's Chain Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Mind Carapace Chain Mail",
+		"source": "VGM"
+	},
+	{
+		"name": "Mithral Chain Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Smoldering Chain Mail",
+		"source": "XGE"
+	},
+	{
+		"name": "Chain Shirt +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Shirt +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Shirt +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Shirt of Gleaming",
+		"source": "XGE"
+	},
+	{
+		"name": "Chain Shirt of Acid Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Shirt of Cold Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Shirt of Fire Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Shirt of Force Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Shirt of Lightning Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Shirt of Necrotic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Shirt of Poison Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Shirt of Psychic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Shirt of Radiant Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Chain Shirt of Thunder Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Chain Shirt",
+		"source": "DMG"
+	},
+	{
+		"name": "Cast-Off Chain Shirt",
+		"source": "XGE"
+	},
+	{
+		"name": "Mariner's Chain Shirt",
+		"source": "DMG"
+	},
+	{
+		"name": "Mithral Chain Shirt",
+		"source": "DMG"
+	},
+	{
+		"name": "Smoldering Chain Shirt",
+		"source": "XGE"
+	},
+	{
+		"name": "Half Plate Armor +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Half Plate Armor +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Half Plate Armor +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Half Plate Armor of Gleaming",
+		"source": "XGE"
+	},
+	{
+		"name": "Half Plate Armor of Acid Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Half Plate Armor of Cold Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Half Plate Armor of Fire Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Half Plate Armor of Force Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Half Plate Armor of Lightning Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Half Plate Armor of Necrotic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Half Plate Armor of Poison Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Half Plate Armor of Psychic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Half Plate Armor of Radiant Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Half Plate Armor of Thunder Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Half Plate Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Cast-Off Half Plate Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Mariner's Half Plate Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Mithral Half Plate Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Smoldering Half Plate Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Hide Armor +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Hide Armor +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Hide Armor +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Hide Armor of Gleaming",
+		"source": "XGE"
+	},
+	{
+		"name": "Hide Armor of Acid Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Hide Armor of Cold Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Hide Armor of Fire Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Hide Armor of Force Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Hide Armor of Lightning Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Hide Armor of Necrotic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Hide Armor of Poison Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Hide Armor of Psychic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Hide Armor of Radiant Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Hide Armor of Thunder Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Cast-Off Hide Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Mariner's Hide Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Smoldering Hide Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Leather Armor +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Leather Armor +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Leather Armor +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Leather Armor of Gleaming",
+		"source": "XGE"
+	},
+	{
+		"name": "Leather Armor of Acid Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Leather Armor of Cold Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Leather Armor of Fire Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Leather Armor of Force Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Leather Armor of Lightning Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Leather Armor of Necrotic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Leather Armor of Poison Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Leather Armor of Psychic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Leather Armor of Radiant Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Leather Armor of Thunder Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Cast-Off Leather Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Mariner's Leather Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Smoldering Leather Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Padded Armor +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Padded Armor +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Padded Armor +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Padded Armor of Gleaming",
+		"source": "XGE"
+	},
+	{
+		"name": "Padded Armor of Acid Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Padded Armor of Cold Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Padded Armor of Fire Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Padded Armor of Force Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Padded Armor of Lightning Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Padded Armor of Necrotic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Padded Armor of Poison Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Padded Armor of Psychic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Padded Armor of Radiant Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Padded Armor of Thunder Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Cast-Off Padded Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Mariner's Padded Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Smoldering Padded Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Plate Armor +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Plate Armor +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Plate Armor +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Plate Armor of Gleaming",
+		"source": "XGE"
+	},
+	{
+		"name": "Plate Armor of Acid Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Plate Armor of Cold Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Plate Armor of Fire Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Plate Armor of Force Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Plate Armor of Lightning Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Plate Armor of Necrotic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Plate Armor of Poison Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Plate Armor of Psychic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Plate Armor of Radiant Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Plate Armor of Thunder Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Plate Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Cast-Off Plate Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Mariner's Plate Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Mind Carapace Plate Armor",
+		"source": "VGM"
+	},
+	{
+		"name": "Mithral Plate Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Smoldering Plate Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Ring Mail +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring Mail +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring Mail +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring Mail of Gleaming",
+		"source": "XGE"
+	},
+	{
+		"name": "Ring Mail of Acid Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring Mail of Cold Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring Mail of Fire Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring Mail of Force Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring Mail of Lightning Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring Mail of Necrotic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring Mail of Poison Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring Mail of Psychic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring Mail of Radiant Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Ring Mail of Thunder Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Ring Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Cast-Off Ring Mail",
+		"source": "XGE"
+	},
+	{
+		"name": "Mariner's Ring Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Mind Carapace Ring Mail",
+		"source": "VGM"
+	},
+	{
+		"name": "Mithral Ring Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Smoldering Ring Mail",
+		"source": "XGE"
+	},
+	{
+		"name": "Scale Mail +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Scale Mail +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Scale Mail +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Scale Mail of Gleaming",
+		"source": "XGE"
+	},
+	{
+		"name": "Scale Mail of Acid Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Scale Mail of Cold Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Scale Mail of Fire Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Scale Mail of Force Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Scale Mail of Lightning Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Scale Mail of Necrotic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Scale Mail of Poison Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Scale Mail of Psychic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Scale Mail of Radiant Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Scale Mail of Thunder Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Scale Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Cast-Off Scale Mail",
+		"source": "XGE"
+	},
+	{
+		"name": "Mariner's Scale Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Mithral Scale Mail",
+		"source": "DMG"
+	},
+	{
+		"name": "Smoldering Scale Mail",
+		"source": "XGE"
+	},
+	{
+		"name": "Spiked Armor +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Spiked Armor +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Spiked Armor +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Spiked Armor of Gleaming",
+		"source": "XGE"
+	},
+	{
+		"name": "Spiked Armor of Acid Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Spiked Armor of Cold Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Spiked Armor of Fire Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Spiked Armor of Force Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Spiked Armor of Lightning Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Spiked Armor of Necrotic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Spiked Armor of Poison Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Spiked Armor of Psychic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Spiked Armor of Radiant Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Spiked Armor of Thunder Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Spiked Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Cast-Off Spiked Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Mariner's Spiked Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Mithral Spiked Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Smoldering Spiked Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Splint Armor +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Splint Armor +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Splint Armor +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Splint Armor of Gleaming",
+		"source": "XGE"
+	},
+	{
+		"name": "Splint Armor of Acid Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Splint Armor of Cold Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Splint Armor of Fire Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Splint Armor of Force Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Splint Armor of Lightning Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Splint Armor of Necrotic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Splint Armor of Poison Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Splint Armor of Psychic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Splint Armor of Radiant Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Splint Armor of Thunder Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Adamantine Splint Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Cast-Off Splint Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Mariner's Splint Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Mind Carapace Splint Armor",
+		"source": "VGM"
+	},
+	{
+		"name": "Mithral Splint Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Smoldering Splint Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Studded Leather Armor +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Studded Leather Armor +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Studded Leather Armor +3",
+		"source": "DMG"
+	},
+	{
+		"name": "Studded Leather Armor of Gleaming",
+		"source": "XGE"
+	},
+	{
+		"name": "Studded Leather Armor of Acid Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Studded Leather Armor of Cold Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Studded Leather Armor of Fire Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Studded Leather Armor of Force Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Studded Leather Armor of Lightning Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Studded Leather Armor of Necrotic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Studded Leather Armor of Poison Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Studded Leather Armor of Psychic Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Studded Leather Armor of Radiant Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Studded Leather Armor of Thunder Resistance",
+		"source": "DMG"
+	},
+	{
+		"name": "Cast-Off Studded Leather Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Mariner's Studded Leather Armor",
+		"source": "DMG"
+	},
+	{
+		"name": "Smoldering Studded Leather Armor",
+		"source": "XGE"
+	},
+	{
+		"name": "Shield +1",
+		"source": "DMG"
+	},
+	{
+		"name": "Shield +2",
+		"source": "DMG"
+	},
+	{
+		"name": "Shield +3",
+		"source": "DMG"
+	}
+]
+}

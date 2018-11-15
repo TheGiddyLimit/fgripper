@@ -1,0 +1,2304 @@
+{
+	"spell": [
+		{
+			"name": "Booming Blade",
+			"source": "SCAG",
+			"lvl": 0
+		},
+		{
+			"name": "Green-Flame Blade",
+			"source": "SCAG",
+			"lvl": 0
+		},
+		{
+			"name": "Lightning Lure",
+			"source": "SCAG",
+			"lvl": 0
+		},
+		{
+			"name": "Sword Burst",
+			"source": "SCAG",
+			"lvl": 0
+		},
+		{
+			"name": "Abi-Dalzim's Horrid Wilting",
+			"source": "XGE",
+			"lvl": 8
+		},
+		{
+			"name": "Absorb Elements",
+			"source": "XGE",
+			"lvl": 1
+		},
+		{
+			"name": "Aganazzar's Scorcher",
+			"source": "XGE",
+			"lvl": 2
+		},
+		{
+			"name": "Beast Bond",
+			"source": "XGE",
+			"lvl": 1
+		},
+		{
+			"name": "Bones of the Earth",
+			"source": "XGE",
+			"lvl": 6
+		},
+		{
+			"name": "Catapult",
+			"source": "XGE",
+			"lvl": 1
+		},
+		{
+			"name": "Catnap",
+			"source": "XGE",
+			"lvl": 3
+		},
+		{
+			"name": "Cause Fear",
+			"source": "XGE",
+			"lvl": 1
+		},
+		{
+			"name": "Ceremony",
+			"source": "XGE",
+			"lvl": 1
+		},
+		{
+			"name": "Chaos Bolt",
+			"source": "XGE",
+			"lvl": 1
+		},
+		{
+			"name": "Charm Monster",
+			"source": "XGE",
+			"lvl": 4
+		},
+		{
+			"name": "Control Flames",
+			"source": "XGE",
+			"lvl": 0
+		},
+		{
+			"name": "Control Winds",
+			"source": "XGE",
+			"lvl": 5
+		},
+		{
+			"name": "Create Bonfire",
+			"source": "XGE",
+			"lvl": 0
+		},
+		{
+			"name": "Create Homunculus",
+			"source": "XGE",
+			"lvl": 6
+		},
+		{
+			"name": "Crown of Stars",
+			"source": "XGE",
+			"lvl": 7
+		},
+		{
+			"name": "Danse Macabre",
+			"source": "XGE",
+			"lvl": 5
+		},
+		{
+			"name": "Dawn",
+			"source": "XGE",
+			"lvl": 5
+		},
+		{
+			"name": "Dragon's Breath",
+			"source": "XGE",
+			"lvl": 2
+		},
+		{
+			"name": "Druid Grove",
+			"source": "XGE",
+			"lvl": 6
+		},
+		{
+			"name": "Dust Devil",
+			"source": "XGE",
+			"lvl": 2
+		},
+		{
+			"name": "Earth Tremor",
+			"source": "XGE",
+			"lvl": 1
+		},
+		{
+			"name": "Earthbind",
+			"source": "XGE",
+			"lvl": 2
+		},
+		{
+			"name": "Elemental Bane",
+			"source": "XGE",
+			"lvl": 4
+		},
+		{
+			"name": "Enemies Abound",
+			"source": "XGE",
+			"lvl": 3
+		},
+		{
+			"name": "Enervation",
+			"source": "XGE",
+			"lvl": 5
+		},
+		{
+			"name": "Erupting Earth",
+			"source": "XGE",
+			"lvl": 3
+		},
+		{
+			"name": "Far Step",
+			"source": "XGE",
+			"lvl": 5
+		},
+		{
+			"name": "Find Greater Steed",
+			"source": "XGE",
+			"lvl": 4
+		},
+		{
+			"name": "Flame Arrows",
+			"source": "XGE",
+			"lvl": 3
+		},
+		{
+			"name": "Frostbite",
+			"source": "XGE",
+			"lvl": 0
+		},
+		{
+			"name": "Guardian of Nature",
+			"source": "XGE",
+			"lvl": 4
+		},
+		{
+			"name": "Gust",
+			"source": "XGE",
+			"lvl": 0
+		},
+		{
+			"name": "Healing Spirit",
+			"source": "XGE",
+			"lvl": 2
+		},
+		{
+			"name": "Holy Weapon",
+			"source": "XGE",
+			"lvl": 5
+		},
+		{
+			"name": "Ice Knife",
+			"source": "XGE",
+			"lvl": 1
+		},
+		{
+			"name": "Illusory Dragon",
+			"source": "XGE",
+			"lvl": 8
+		},
+		{
+			"name": "Immolation",
+			"source": "XGE",
+			"lvl": 5
+		},
+		{
+			"name": "Infernal Calling",
+			"source": "XGE",
+			"lvl": 5
+		},
+		{
+			"name": "Infestation",
+			"source": "XGE",
+			"lvl": 0
+		},
+		{
+			"name": "Investiture of Flame",
+			"source": "XGE",
+			"lvl": 6
+		},
+		{
+			"name": "Investiture of Ice",
+			"source": "XGE",
+			"lvl": 6
+		},
+		{
+			"name": "Investiture of Stone",
+			"source": "XGE",
+			"lvl": 6
+		},
+		{
+			"name": "Investiture of Wind",
+			"source": "XGE",
+			"lvl": 6
+		},
+		{
+			"name": "Invulnerability",
+			"source": "XGE",
+			"lvl": 9
+		},
+		{
+			"name": "Life Transference",
+			"source": "XGE",
+			"lvl": 3
+		},
+		{
+			"name": "Maddening Darkness",
+			"source": "XGE",
+			"lvl": 8
+		},
+		{
+			"name": "Maelstrom",
+			"source": "XGE",
+			"lvl": 5
+		},
+		{
+			"name": "Magic Stone",
+			"source": "XGE",
+			"lvl": 0
+		},
+		{
+			"name": "Mass Polymorph",
+			"source": "XGE",
+			"lvl": 9
+		},
+		{
+			"name": "Maximilian's Earthen Grasp",
+			"source": "XGE",
+			"lvl": 2
+		},
+		{
+			"name": "Melf's Minute Meteors",
+			"source": "XGE",
+			"lvl": 3
+		},
+		{
+			"name": "Mental Prison",
+			"source": "XGE",
+			"lvl": 6
+		},
+		{
+			"name": "Mighty Fortress",
+			"source": "XGE",
+			"lvl": 8
+		},
+		{
+			"name": "Mind Spike",
+			"source": "XGE",
+			"lvl": 2
+		},
+		{
+			"name": "Mold Earth",
+			"source": "XGE",
+			"lvl": 0
+		},
+		{
+			"name": "Negative Energy Flood",
+			"source": "XGE",
+			"lvl": 5
+		},
+		{
+			"name": "Power Word Pain",
+			"source": "XGE",
+			"lvl": 7
+		},
+		{
+			"name": "Primal Savagery",
+			"source": "XGE",
+			"lvl": 0
+		},
+		{
+			"name": "Primordial Ward",
+			"source": "XGE",
+			"lvl": 6
+		},
+		{
+			"name": "Psychic Scream",
+			"source": "XGE",
+			"lvl": 9
+		},
+		{
+			"name": "Pyrotechnics",
+			"source": "XGE",
+			"lvl": 2
+		},
+		{
+			"name": "Scatter",
+			"source": "XGE",
+			"lvl": 6
+		},
+		{
+			"name": "Shadow Blade",
+			"source": "XGE",
+			"lvl": 2
+		},
+		{
+			"name": "Shadow of Moil",
+			"source": "XGE",
+			"lvl": 4
+		},
+		{
+			"name": "Shape Water",
+			"source": "XGE",
+			"lvl": 0
+		},
+		{
+			"name": "Sickening Radiance",
+			"source": "XGE",
+			"lvl": 4
+		},
+		{
+			"name": "Skill Empowerment",
+			"source": "XGE",
+			"lvl": 5
+		},
+		{
+			"name": "Skywrite",
+			"source": "XGE",
+			"lvl": 2
+		},
+		{
+			"name": "Snare",
+			"source": "XGE",
+			"lvl": 1
+		},
+		{
+			"name": "Snilloc's Snowball Swarm",
+			"source": "XGE",
+			"lvl": 2
+		},
+		{
+			"name": "Soul Cage",
+			"source": "XGE",
+			"lvl": 6
+		},
+		{
+			"name": "Steel Wind Strike",
+			"source": "XGE",
+			"lvl": 5
+		},
+		{
+			"name": "Storm Sphere",
+			"source": "XGE",
+			"lvl": 4
+		},
+		{
+			"name": "Summon Greater Demon",
+			"source": "XGE",
+			"lvl": 4
+		},
+		{
+			"name": "Summon Lesser Demons",
+			"source": "XGE",
+			"lvl": 3
+		},
+		{
+			"name": "Synaptic Static",
+			"source": "XGE",
+			"lvl": 5
+		},
+		{
+			"name": "Temple of the Gods",
+			"source": "XGE",
+			"lvl": 7
+		},
+		{
+			"name": "Tenser's Transformation",
+			"source": "XGE",
+			"lvl": 6
+		},
+		{
+			"name": "Thunder Step",
+			"source": "XGE",
+			"lvl": 3
+		},
+		{
+			"name": "Thunderclap",
+			"source": "XGE",
+			"lvl": 0
+		},
+		{
+			"name": "Tidal Wave",
+			"source": "XGE",
+			"lvl": 3
+		},
+		{
+			"name": "Tiny Servant",
+			"source": "XGE",
+			"lvl": 3
+		},
+		{
+			"name": "Toll the Dead",
+			"source": "XGE",
+			"lvl": 0
+		},
+		{
+			"name": "Transmute Rock",
+			"source": "XGE",
+			"lvl": 5
+		},
+		{
+			"name": "Vitriolic Sphere",
+			"source": "XGE",
+			"lvl": 4
+		},
+		{
+			"name": "Wall of Light",
+			"source": "XGE",
+			"lvl": 5
+		},
+		{
+			"name": "Wall of Sand",
+			"source": "XGE",
+			"lvl": 3
+		},
+		{
+			"name": "Wall of Water",
+			"source": "XGE",
+			"lvl": 3
+		},
+		{
+			"name": "Warding Wind",
+			"source": "XGE",
+			"lvl": 2
+		},
+		{
+			"name": "Watery Sphere",
+			"source": "XGE",
+			"lvl": 4
+		},
+		{
+			"name": "Whirlwind",
+			"source": "XGE",
+			"lvl": 7
+		},
+		{
+			"name": "Word of Radiance",
+			"source": "XGE",
+			"lvl": 0
+		},
+		{
+			"name": "Wrath of Nature",
+			"source": "XGE",
+			"lvl": 5
+		},
+		{
+			"name": "Zephyr Strike",
+			"source": "XGE",
+			"lvl": 1
+		},
+		{
+			"name": "Acid Splash",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Aid",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Alarm",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Alter Self",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Animal Friendship",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Animal Messenger",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Animal Shapes",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Animate Dead",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Animate Objects",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Antilife Shell",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Antimagic Field",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Antipathy/Sympathy",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Arcane Eye",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Arcane Gate",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Arcane Lock",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Armor of Agathys",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Arms of Hadar",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Astral Projection",
+			"source": "PHB",
+			"lvl": 9
+		},
+		{
+			"name": "Augury",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Aura of Life",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Aura of Purity",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Aura of Vitality",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Awaken",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Bane",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Banishing Smite",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Banishment",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Barkskin",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Beacon of Hope",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Beast Sense",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Bestow Curse",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Bigby's Hand",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Blade Barrier",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Blade Ward",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Bless",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Blight",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Blinding Smite",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Blindness/Deafness",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Blink",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Blur",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Branding Smite",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Burning Hands",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Call Lightning",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Calm Emotions",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Chain Lightning",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Charm Person",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Chill Touch",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Chromatic Orb",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Circle of Death",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Circle of Power",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Clairvoyance",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Clone",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Cloud of Daggers",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Cloudkill",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Color Spray",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Command",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Commune",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Commune with Nature",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Compelled Duel",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Comprehend Languages",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Compulsion",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Cone of Cold",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Confusion",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Conjure Animals",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Conjure Barrage",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Conjure Celestial",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Conjure Elemental",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Conjure Fey",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Conjure Minor Elementals",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Conjure Volley",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Conjure Woodland Beings",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Contact Other Plane",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Contagion",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Contingency",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Continual Flame",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Control Water",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Control Weather",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Cordon of Arrows",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Counterspell",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Create Food and Water",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Create Undead",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Create or Destroy Water",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Creation",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Crown of Madness",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Crusader's Mantle",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Cure Wounds",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Dancing Lights",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Darkness",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Darkvision",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Daylight",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Death Ward",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Delayed Blast Fireball",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Demiplane",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Destructive Wave",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Detect Evil and Good",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Detect Magic",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Detect Poison and Disease",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Detect Thoughts",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Dimension Door",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Disguise Self",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Disintegrate",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Dispel Evil and Good",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Dispel Magic",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Dissonant Whispers",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Divination",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Divine Favor",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Divine Word",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Dominate Beast",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Dominate Monster",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Dominate Person",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Drawmij's Instant Summons",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Dream",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Druidcraft",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Earthquake",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Eldritch Blast",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Elemental Weapon",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Enhance Ability",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Enlarge/Reduce",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Ensnaring Strike",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Entangle",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Enthrall",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Etherealness",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Evard's Black Tentacles",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Expeditious Retreat",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Eyebite",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Fabricate",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Faerie Fire",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "False Life",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Fear",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Feather Fall",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Feeblemind",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Feign Death",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Find Familiar",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Find Steed",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Find Traps",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Find the Path",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Finger of Death",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Fire Bolt",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Fire Shield",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Fire Storm",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Fireball",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Flame Blade",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Flame Strike",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Flaming Sphere",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Flesh to Stone",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Fly",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Fog Cloud",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Forbiddance",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Forcecage",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Foresight",
+			"source": "PHB",
+			"lvl": 9
+		},
+		{
+			"name": "Freedom of Movement",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Friends",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Gaseous Form",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Gate",
+			"source": "PHB",
+			"lvl": 9
+		},
+		{
+			"name": "Geas",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Gentle Repose",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Giant Insect",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Glibness",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Globe of Invulnerability",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Glyph of Warding",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Goodberry",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Grasping Vine",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Grease",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Greater Invisibility",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Greater Restoration",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Guardian of Faith",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Guards and Wards",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Guidance",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Guiding Bolt",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Gust of Wind",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Hail of Thorns",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Hallow",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Hallucinatory Terrain",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Harm",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Haste",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Heal",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Healing Word",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Heat Metal",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Hellish Rebuke",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Heroes' Feast",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Heroism",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Hex",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Hold Monster",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Hold Person",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Holy Aura",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Hunger of Hadar",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Hunter's Mark",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Hypnotic Pattern",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Ice Storm",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Identify",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Illusory Script",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Imprisonment",
+			"source": "PHB",
+			"lvl": 9
+		},
+		{
+			"name": "Incendiary Cloud",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Inflict Wounds",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Insect Plague",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Invisibility",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Jump",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Knock",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Legend Lore",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Leomund's Secret Chest",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Leomund's Tiny Hut",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Lesser Restoration",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Levitate",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Light",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Lightning Arrow",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Lightning Bolt",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Locate Animals or Plants",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Locate Creature",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Locate Object",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Longstrider",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Mage Armor",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Mage Hand",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Magic Circle",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Magic Jar",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Magic Missile",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Magic Mouth",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Magic Weapon",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Major Image",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Mass Cure Wounds",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Mass Heal",
+			"source": "PHB",
+			"lvl": 9
+		},
+		{
+			"name": "Mass Healing Word",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Mass Suggestion",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Maze",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Meld into Stone",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Melf's Acid Arrow",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Mending",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Message",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Meteor Swarm",
+			"source": "PHB",
+			"lvl": 9
+		},
+		{
+			"name": "Mind Blank",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Minor Illusion",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Mirage Arcane",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Mirror Image",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Mislead",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Misty Step",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Modify Memory",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Moonbeam",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Mordenkainen's Faithful Hound",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Mordenkainen's Magnificent Mansion",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Mordenkainen's Private Sanctum",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Mordenkainen's Sword",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Move Earth",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Nondetection",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Nystul's Magic Aura",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Otiluke's Freezing Sphere",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Otiluke's Resilient Sphere",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Otto's Irresistible Dance",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Pass Without Trace",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Passwall",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Phantasmal Force",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Phantasmal Killer",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Phantom Steed",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Planar Ally",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Planar Binding",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Plane Shift",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Plant Growth",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Poison Spray",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Polymorph",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Power Word Heal",
+			"source": "PHB",
+			"lvl": 9
+		},
+		{
+			"name": "Power Word Kill",
+			"source": "PHB",
+			"lvl": 9
+		},
+		{
+			"name": "Power Word Stun",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Prayer of Healing",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Prestidigitation",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Prismatic Spray",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Prismatic Wall",
+			"source": "PHB",
+			"lvl": 9
+		},
+		{
+			"name": "Produce Flame",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Programmed Illusion",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Project Image",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Protection from Energy",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Protection from Evil and Good",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Protection from Poison",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Purify Food and Drink",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Raise Dead",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Rary's Telepathic Bond",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Ray of Enfeeblement",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Ray of Frost",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Ray of Sickness",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Regenerate",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Reincarnate",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Remove Curse",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Resistance",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Resurrection",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Reverse Gravity",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Revivify",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Rope Trick",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Sacred Flame",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Sanctuary",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Scorching Ray",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Scrying",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Searing Smite",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "See Invisibility",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Seeming",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Sending",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Sequester",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Shapechange",
+			"source": "PHB",
+			"lvl": 9
+		},
+		{
+			"name": "Shatter",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Shield",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Shield of Faith",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Shillelagh",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Shocking Grasp",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Silence",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Silent Image",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Simulacrum",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Sleep",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Sleet Storm",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Slow",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Spare the Dying",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Speak with Animals",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Speak with Dead",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Speak with Plants",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Spider Climb",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Spike Growth",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Spirit Guardians",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Spiritual Weapon",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Staggering Smite",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Stinking Cloud",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Stone Shape",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Stoneskin",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Storm of Vengeance",
+			"source": "PHB",
+			"lvl": 9
+		},
+		{
+			"name": "Suggestion",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Sunbeam",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Sunburst",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Swift Quiver",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Symbol",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Tasha's Hideous Laughter",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Telekinesis",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Telepathy",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Teleport",
+			"source": "PHB",
+			"lvl": 7
+		},
+		{
+			"name": "Teleportation Circle",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Tenser's Floating Disk",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Thaumaturgy",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Thorn Whip",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Thunderous Smite",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Thunderwave",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Time Stop",
+			"source": "PHB",
+			"lvl": 9
+		},
+		{
+			"name": "Tongues",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Transport via Plants",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Tree Stride",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "True Polymorph",
+			"source": "PHB",
+			"lvl": 9
+		},
+		{
+			"name": "True Resurrection",
+			"source": "PHB",
+			"lvl": 9
+		},
+		{
+			"name": "True Seeing",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "True Strike",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Tsunami",
+			"source": "PHB",
+			"lvl": 8
+		},
+		{
+			"name": "Unseen Servant",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Vampiric Touch",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Vicious Mockery",
+			"source": "PHB",
+			"lvl": 0
+		},
+		{
+			"name": "Wall of Fire",
+			"source": "PHB",
+			"lvl": 4
+		},
+		{
+			"name": "Wall of Force",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Wall of Ice",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Wall of Stone",
+			"source": "PHB",
+			"lvl": 5
+		},
+		{
+			"name": "Wall of Thorns",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Warding Bond",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Water Breathing",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Water Walk",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Web",
+			"source": "PHB",
+			"lvl": 2
+		},
+		{
+			"name": "Weird",
+			"source": "PHB",
+			"lvl": 9
+		},
+		{
+			"name": "Wind Walk",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Wind Wall",
+			"source": "PHB",
+			"lvl": 3
+		},
+		{
+			"name": "Wish",
+			"source": "PHB",
+			"lvl": 9
+		},
+		{
+			"name": "Witch Bolt",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Word of Recall",
+			"source": "PHB",
+			"lvl": 6
+		},
+		{
+			"name": "Wrathful Smite",
+			"source": "PHB",
+			"lvl": 1
+		},
+		{
+			"name": "Zone of Truth",
+			"source": "PHB",
+			"lvl": 2
+		}
+	]
+}

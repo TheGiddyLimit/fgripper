@@ -1,0 +1,228 @@
+{
+	"background": [
+		{
+			"name": "Acolyte",
+			"source": "PHB"
+		},
+		{
+			"name": "Charlatan",
+			"source": "PHB"
+		},
+		{
+			"name": "City Watch",
+			"source": "SCAG"
+		},
+		{
+			"name": "Clan Crafter",
+			"source": "SCAG"
+		},
+		{
+			"name": "Cloistered Scholar",
+			"source": "SCAG"
+		},
+		{
+			"name": "Courtier",
+			"source": "SCAG"
+		},
+		{
+			"name": "Criminal",
+			"source": "PHB"
+		},
+		{
+			"name": "Entertainer",
+			"source": "PHB"
+		},
+		{
+			"name": "Faction Agent",
+			"source": "SCAG"
+		},
+		{
+			"name": "Far Traveler",
+			"source": "SCAG"
+		},
+		{
+			"name": "Folk Hero",
+			"source": "PHB"
+		},
+		{
+			"name": "Guild Artisan",
+			"source": "PHB"
+		},
+		{
+			"name": "Hermit",
+			"source": "PHB"
+		},
+		{
+			"name": "Inheritor",
+			"source": "SCAG"
+		},
+		{
+			"name": "Investigator",
+			"source": "SCAG"
+		},
+		{
+			"name": "Knight of the Order",
+			"source": "SCAG"
+		},
+		{
+			"name": "Mercenary Veteran",
+			"source": "SCAG"
+		},
+		{
+			"name": "Noble",
+			"source": "PHB"
+		},
+		{
+			"name": "Outlander",
+			"source": "PHB"
+		},
+		{
+			"name": "Sage",
+			"source": "PHB"
+		},
+		{
+			"name": "Sailor",
+			"source": "PHB"
+		},
+		{
+			"name": "Soldier",
+			"source": "PHB"
+		},
+		{
+			"name": "Urban Bounty Hunter",
+			"source": "SCAG"
+		},
+		{
+			"name": "Urchin",
+			"source": "PHB"
+		},
+		{
+			"name": "Uthgardt Tribe Member",
+			"source": "SCAG"
+		},
+		{
+			"name": "Waterdhavian Noble",
+			"source": "SCAG"
+		},
+		{
+			"name": "Variant Criminal (Spy)",
+			"source": "PHB"
+		},
+		{
+			"name": "Variant Entertainer (Gladiator)",
+			"source": "PHB"
+		},
+		{
+			"name": "Variant Guild Artisan (Guild Merchant)",
+			"source": "PHB"
+		},
+		{
+			"name": "Variant Noble (Knight)",
+			"source": "PHB"
+		},
+		{
+			"name": "Variant Sailor (Pirate)",
+			"source": "PHB"
+		},
+		{
+			"name": "Inquisitor",
+			"source": "PSI"
+		},
+		{
+			"name": "Haunted One",
+			"source": "CoS"
+		},
+		{
+			"name": "Initiate",
+			"source": "PSA"
+		},
+		{
+			"name": "Vizier",
+			"source": "PSA"
+		},
+		{
+			"name": "Dissenter",
+			"source": "PSA"
+		},
+		{
+			"name": "Anthropologist",
+			"source": "ToA"
+		},
+		{
+			"name": "Archaeologist",
+			"source": "ToA"
+		},
+		{
+			"name": "Black Fist Double Agent",
+			"source": "ALCurseOfStrahd"
+		},
+		{
+			"name": "Dragon Casualty",
+			"source": "ALCurseOfStrahd"
+		},
+		{
+			"name": "Iron Route Bandit",
+			"source": "ALCurseOfStrahd"
+		},
+		{
+			"name": "Phlan Insurgent",
+			"source": "ALCurseOfStrahd"
+		},
+		{
+			"name": "Stojanow Prisoner",
+			"source": "ALCurseOfStrahd"
+		},
+		{
+			"name": "Ticklebelly Nomad",
+			"source": "ALCurseOfStrahd"
+		},
+		{
+			"name": "Caravan Specialist",
+			"source": "ALElementalEvil"
+		},
+		{
+			"name": "Earthspur Miner",
+			"source": "ALElementalEvil"
+		},
+		{
+			"name": "Harborfolk",
+			"source": "ALElementalEvil"
+		},
+		{
+			"name": "Mulmaster Aristocrat",
+			"source": "ALElementalEvil"
+		},
+		{
+			"name": "Phlan Refugee",
+			"source": "ALElementalEvil"
+		},
+		{
+			"name": "Cormanthor Refugee",
+			"source": "ALRageOfDemons"
+		},
+		{
+			"name": "Gate Urchin",
+			"source": "ALRageOfDemons"
+		},
+		{
+			"name": "Hillsfar Merchant",
+			"source": "ALRageOfDemons"
+		},
+		{
+			"name": "Hillsfar Smuggler",
+			"source": "ALRageOfDemons"
+		},
+		{
+			"name": "Secret Identity",
+			"source": "ALRageOfDemons"
+		},
+		{
+			"name": "Shade Fanatic",
+			"source": "ALRageOfDemons"
+		},
+		{
+			"name": "Trade Sherrif",
+			"source": "ALRageOfDemons"
+		}
+	]
+}

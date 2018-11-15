@@ -1,0 +1,97 @@
+{
+    "LMOP_SIDEBAR_ASH_ZOMBIES": {
+        "type": "inset",
+        "name": "Ash Zombies",
+        "entries": [
+            "These zombies were created by the magical devastation when Mount Hotenow erupted thirty years ago. They use the zombie stat block, with the following additional trait.",
+            {
+                "type": "entries",
+                "name": "Ash Puff",
+                "entries": [
+                    "The first time the zombie takes damage, any living creature within 5 feet of the zombie must succeed on a DC 10 Constitution saving throw or gain disadvantage on attack rolls, saving throws, and ability checks for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on it early with a successful save."
+                ]
+            }
+        ]
+    },
+    "LMOP_TABLE_ABBREVIATIONS": {
+        "entries": [
+            "The following abbreviations are used in this adventure:",
+            {
+                "type": "table",
+                "colLabels": [
+                    "Abbreviation",
+                    "Abbreviation"
+                ],
+                "colStyles": [
+                    "",
+                    ""
+                ],
+                "rows": [
+                    [
+                        "DC = Difficulty Class",
+                        "XP = experience points"
+                    ],
+                    [
+                        "gp = gold piece(s)",
+                        "pp = platinum piece(s)"
+                    ],
+                    [
+                        "sp = silver piece(s)",
+                        "ep = electrum piece(s)"
+                    ],
+                    [
+                        "cp = copper piece(s)",
+                        "-"
+                    ]
+                ]
+            }
+        ]
+    },
+    "TFTYP_TFOF_AFTERMATH": [
+        {
+            "type": "entries",
+            "name": "Resolving the Character Hooks",
+            "entries": [
+                "If the characters return to Blasingdell, their fame as adventurers spreads. Townsfolk hail them on the street, and some might approach them with problems that can lead to further adventures. The characters can continue to use the town as a base of operations. Other developments depend on what got them here, and how they leave.",
+                 {
+                    "type": "entries",
+                    "name": "Follow the Map",
+                    "entries": [
+                        "While the characters are exploring the stronghold, they might find another map, perhaps ion the body of an adventurer from the previous expedition, or in the library in area 49. It could lead to a different dungeon, a city in some land far away, or an as-yet-unknown location rumored to hide fabulous treasure"
+                    ]
+                },
+                 {
+                    "type": "entries",
+                    "name": "Track the Broken Blade",
+                    "entries": [
+                        "If the characters were sent to retrieve weapons for Baron Althon, they can bring him the {@item longsword +1|DMG|+1 longsword} from area 22, the {@item greataxe +2|DMG|+2 greataxe} in area 53, the {@item handaxe|PHB} from are 14, and the {@item warhammer|PHB} from are 23. All bear Durgeddin's smith-mark; Baron Althon pays 500 gp above the market price for each mundane weapon, 1,000 gp for the {@item longsword +1|DMG|+1 longsword}, and 6,000 gp for the {@item greataxe +2|DMG|+2 greataxe}, if the characters are willing to sell."
+                    ]
+                },
+                 {
+                    "type": "entries",
+                    "name": "Vanquish the Orc Raiders",
+                    "entries": [
+                        "The characters can return to Blasingdell at any time to collect the bounty for orcs they kill or capture. If the characters eliminate all the orcs in the stronghold, the mayor honors them with a celebration attended by the eminent citizens of the town. The characters have established valuable contacts who can aid them in their later endeavors"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "entries",
+            "name": "Further Adventures",
+            "entries": [
+                "You can build an entire campaign around the duergar that occupy the Foundry. Perhaps they came here from a hidden city in even deeper caverns beneath the Sinkhole and the Black Lake. Your answers to the following questions form the basis for further adventures:",
+                {
+                    "type": "list",
+                    "items": [
+                        "How did the duergar get into the complex?",
+                        "What is the mysterious project they are working on?",
+                        "Did Durgeddin know of the duergar's existance?",
+                        "Do the duergar have some of Durgeddin's items? If so, are they guarding them or using them?"
+                    ]
+                },
+                "You can also use this adventure to sow the seeds of the characters' next activity. Perhaps the party encounters a legend of a magical treasure from Khundrukar's fall, buried in the tomb of an evil knight. Maybe Great Ulfe's ogre clan is terrorizing a nearby area, or an ore war chief wields a legendary weapon that was crafted by Durgeddin."
+            ]
+        }
+    ]
+}
