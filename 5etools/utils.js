@@ -3351,7 +3351,7 @@ DataUtil = {
 // SHOW/HIDE SEARCH ====================================================================================================
 function addListShowHide () {
 	const toInjectShow = `
-		<div class="col-xs-12" id="showsearch">
+		<div class="col-12" id="showsearch">
 			<button class="btn btn-block btn-default btn-xs" type="button">Show Search</button>
 			<br>
 		</div>	
@@ -3661,9 +3661,9 @@ BrewUtil = {
 					<hr class="manbrew__hr">
 					<input type="search" class="search manbrew__search form-control" placeholder="Find homebrew..." style="width: 100%">
 					<div class="filtertools manbrew__filtertools sortlabel btn-group">
-						<button class="col-xs-4 sort btn btn-default btn-xs" data-sort="name">Name</button>
-						<button class="col-xs-1 col-xs-1-5 sort btn btn-default btn-xs" data-sort="category">Category</button>
-						<button class="col-xs-6 col-xs-6-5 sort btn btn-default btn-xs" disabled>Source</button>
+						<button class="col-4 sort btn btn-default btn-xs" data-sort="name">Name</button>
+						<button class="col-1 col-1-5 sort btn btn-default btn-xs" data-sort="category">Category</button>
+						<button class="col-6 col-6-5 sort btn btn-default btn-xs" disabled>Source</button>
 					</div>
 					<ul class="list brew-list">
 						<li><section><span style="font-style: italic;">Loading...</span></section></li>
@@ -3745,9 +3745,9 @@ BrewUtil = {
 								stack += `
 									<li>
 										<section>
-											<span class="col-xs-4 name" onclick="BrewUtil.addBrewRemote(this, '${(it.download_url || "").escapeQuotes()}', true)">${it._brewName}</span>
-											<span class="col-xs-1 col-xs-1-5 category">${BrewUtil._getDisplayCat(BrewUtil._dirToCat(it._cat))}</span>
-											<span class="col-xs-6 col-xs-6-5 source manbrew__source"><a href="${it.download_url}" target="_blank">${StrUtil.elipsisTruncate(it.download_url, 34, 55)}</a></span>
+											<span class="col-4 name" onclick="BrewUtil.addBrewRemote(this, '${(it.download_url || "").escapeQuotes()}', true)">${it._brewName}</span>
+											<span class="col-1 col-1-5 category">${BrewUtil._getDisplayCat(BrewUtil._dirToCat(it._cat))}</span>
+											<span class="col-6 col-6-5 source manbrew__source"><a href="${it.download_url}" target="_blank">${StrUtil.elipsisTruncate(it.download_url, 34, 55)}</a></span>
 										</section>
 									</li>`;
 							});
@@ -3787,9 +3787,9 @@ BrewUtil = {
 					<div id="brewlistcontainer" class="listcontainer homebrew-window dropdown-menu">
 						<input type="search" class="search manbrew__search form-control" placeholder="Search entries..." style="width: 100%">
 						<div class="filtertools manbrew__filtertools sortlabel btn-group">
-							<button class="col-xs-6 sort btn btn-default btn-xs" data-sort="name">Name</button>
-							<button class="col-xs-5 sort btn btn-default btn-xs" data-sort="category">Category</button>
-							<label class="col-xs-1 wrp-cb-all"><input type="checkbox"></label>
+							<button class="col-6 sort btn btn-default btn-xs" data-sort="name">Name</button>
+							<button class="col-5 sort btn btn-default btn-xs" data-sort="category">Category</button>
+							<label class="col-1 wrp-cb-all"><input type="checkbox"></label>
 						</div>
 						<ul class="list brew-list"></ul>
 					</div>
@@ -3825,9 +3825,9 @@ BrewUtil = {
 						BrewUtil.homebrew[cat].filter(it => it.source === source).sort((a, b) => SortUtil.ascSort(a.name, b.name)).forEach(it => {
 							stack += `
 								<li><section onclick="ListUtil.toggleCheckbox(event, this)">
-									<span class="col-xs-6 name">${getDisplayName(cat, it)}</span>
-									<span class="col-xs-5 category text-align-center">${BrewUtil._getDisplayCat(cat, true)}${getExtraInfo(cat, it)}</span>
-									<span class="col-xs-1 text-align-center"><input type="checkbox" onclick="event.stopPropagation()"></span>
+									<span class="col-6 name">${getDisplayName(cat, it)}</span>
+									<span class="col-5 category text-align-center">${BrewUtil._getDisplayCat(cat, true)}${getExtraInfo(cat, it)}</span>
+									<span class="col-1 text-align-center"><input type="checkbox" onclick="event.stopPropagation()"></span>
 									<span class="hidden uid">${it.uniqueId}</span>
 									<span class="category_raw hidden">${cat}</span>
 								</section></li>
@@ -3879,10 +3879,10 @@ BrewUtil = {
 					<div id="outerbrewlistcontainer" class="listcontainer">
 						<input type="search" class="search manbrew__search form-control" placeholder="Search homebrew..." style="width: calc(100% - 3px)">
 						<div class="filtertools manbrew__filtertools sortlabel btn-group">
-							<button class="col-xs-5 sort btn btn-default btn-xs" data-sort="source">Source</button>
-							<button class="col-xs-4 sort btn btn-default btn-xs" data-sort="authors">Authors</button>
-							<button class="col-xs-1 btn btn-default btn-xs" disabled>Source</button>
-							<button class="col-xs-2 btn btn-default btn-xs" disabled>&nbsp;</button>
+							<button class="col-5 sort btn btn-default btn-xs" data-sort="source">Source</button>
+							<button class="col-4 sort btn btn-default btn-xs" data-sort="authors">Authors</button>
+							<button class="col-1 btn btn-default btn-xs" disabled>Source</button>
+							<button class="col-2 btn btn-default btn-xs" disabled>&nbsp;</button>
 						</div>
 						<ul class="list-display-only brew-list"></ul>
 					</div>
@@ -3898,11 +3898,11 @@ BrewUtil = {
 				allSources.push({full: "No Source", json: undefined, _unknown: true});
 				allSources.forEach(src => {
 					const $row = $(`<li class="row manbrew__row no-click">
-						<span class="col-xs-5 manbrew__col--tall source manbrew__source">${src._unknown ? "<i>" : ""}${src.full}${src._unknown ? "</i>" : ""}</span>
-						<span class="col-xs-4 manbrew__col--tall authors">${(src.authors || []).join(", ")}</span>
-						<${src.url ? "a" : "span"} class="col-xs-1 manbrew__col--tall text-align-center" ${src.url ? `href="${src.url}" target="_blank"` : ""}>${src.url ? "View Source" : ""}</${src.url ? "a" : "span"}>
+						<span class="col-5 manbrew__col--tall source manbrew__source">${src._unknown ? "<i>" : ""}${src.full}${src._unknown ? "</i>" : ""}</span>
+						<span class="col-4 manbrew__col--tall authors">${(src.authors || []).join(", ")}</span>
+						<${src.url ? "a" : "span"} class="col-1 manbrew__col--tall text-align-center" ${src.url ? `href="${src.url}" target="_blank"` : ""}>${src.url ? "View Source" : ""}</${src.url ? "a" : "span"}>
 					</li>`);
-					const $btns = $(`<span class="col-xs-2 text-align-right"/>`).appendTo($row);
+					const $btns = $(`<span class="col-2 text-align-right"/>`).appendTo($row);
 					$(`<button class="btn btn-sm btn-default">View/Manage</button>`)
 						.on("click", () => {
 							const $nxt = makeNextOverlay();

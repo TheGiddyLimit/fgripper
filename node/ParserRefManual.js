@@ -525,7 +525,7 @@ class ParserRefManual {
 								const total = avgWidths.reduce((a, b) => a  + b, 0);
 								const nmlxWidths = avgWidths.map(it => it / total);
 								const twelfthWidths = nmlxWidths.map(it => Math.round(it * 12));
-								tbl.colStyles = twelfthWidths.map(it => `col-xs-${it}`);
+								tbl.colStyles = twelfthWidths.map(it => `col-${it}`);
 
 								// check if first column is dice
 								let isDiceCol0 = true;

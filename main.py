@@ -1429,7 +1429,7 @@ def recursive_clean(map, do_tables=False, first_clean=False, first_table_clean=F
             # if it's a dice column
             m = re.match(r"^(\d+)?d\d+(\+(\d+)?d\d+)?$", c.strip())
             if m is not None:
-                new_styles.append("col-xs-1 text-align-center")
+                new_styles.append("col-1 text-align-center")
             else:
                 new_styles.append("")
         return new_styles

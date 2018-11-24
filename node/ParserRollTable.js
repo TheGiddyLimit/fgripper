@@ -30,8 +30,8 @@ class ParserRollTable {
 				caption: "",
 				colLabels: [],
 				colStyles: [
-					"col-xs-2 text-align-center",
-					"col-xs-10"
+					"col-2 text-align-center",
+					"col-10"
 				],
 				rows: []
 			};

@@ -1672,9 +1672,9 @@ EntryRenderer.race = {
 			<tr><td colspan="6">
 				<table class="summary striped-even">
 					<tr>
-						<th class="col-xs-4 text-align-center">Ability Scores</th>
-						<th class="col-xs-4 text-align-center">Size</th>
-						<th class="col-xs-4 text-align-center">Speed</th>
+						<th class="col-4 text-align-center">Ability Scores</th>
+						<th class="col-4 text-align-center">Size</th>
+						<th class="col-4 text-align-center">Speed</th>
 					</tr>
 					<tr>
 						<td class="text-align-center">${ability.asText}</td>
@@ -2158,12 +2158,12 @@ EntryRenderer.monster = {
 			<tr><td colspan="6">
 				<table class="summary striped-even">
 					<tr>
-						<th class="col-xs-2 text-align-center">STR</th>
-						<th class="col-xs-2 text-align-center">DEX</th>
-						<th class="col-xs-2 text-align-center">CON</th>
-						<th class="col-xs-2 text-align-center">INT</th>
-						<th class="col-xs-2 text-align-center">WIS</th>
-						<th class="col-xs-2 text-align-center">CHA</th>
+						<th class="col-2 text-align-center">STR</th>
+						<th class="col-2 text-align-center">DEX</th>
+						<th class="col-2 text-align-center">CON</th>
+						<th class="col-2 text-align-center">INT</th>
+						<th class="col-2 text-align-center">WIS</th>
+						<th class="col-2 text-align-center">CHA</th>
 					</tr>	
 					<tr>
 						<td class="text-align-center">${makeAbilityRoller("str")}</td>
