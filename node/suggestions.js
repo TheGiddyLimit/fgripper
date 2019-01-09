@@ -76,7 +76,7 @@ client.on('ready', async () => {
 						[...users.keys()].forEach(it => voterIds.add(it));
 					}
 				}
-				console.log(`\tFetched suggestion ${msg.id} (${counter++}/${allMessages.length})`);
+				console.log(`\tFetched suggestion ${msg.id} (${`${counter++}`.padStart(`${allMessages.length}`.length, " ")}/${allMessages.length})`);
 
 				let total = voterIds.size;
 				if (voterIds.has(MY_ID)) total += 9; // 10 votes total
