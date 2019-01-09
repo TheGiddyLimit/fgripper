@@ -121,7 +121,7 @@ const PLURALS = {
 	"wolves": "wolf",
 	"orc eyes of gruumsh": "orc eye of gruumsh",
 	"mane": "manes",
-	"gnoll fang of yeenoghu": "gnoll fang of yeenoghu",
+	"gnoll fangs of yeenoghu": "gnoll fang of yeenoghu",
 	"spies": "spy",
 	"harpies": "harpy",
 	"swarms of rats": "swarm of rats",
