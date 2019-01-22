@@ -16,17 +16,17 @@ import codecs
 # Once the creatures are clean, the fluff can be cleaned, using `fluffer.js` in the main project
 
 # CONFIGURABLE STUFF
-SOURCE = "GGR"
+SOURCE = "WDMM"
 IMG_DIR = "img/" + SOURCE + "/"
 FLUFF_IMAGE_DIR = "img/bestiary/" + SOURCE + "/"
-BASE_DIR = "books/DD Guildmaster's Guide to Ravnica/"
+BASE_DIR = "adventures/DD Dungeon of the Mad Mage/"
 INPUT_DB = BASE_DIR + "db-cleaned.xml"
 DO_FLUFF = True
-IS_ADVENTURE = False
-AUTO_YES = True # setting this to "true" forces all creatures to be exported, no matter how junky
+IS_ADVENTURE = True
+AUTO_YES = True  # setting this to "true" forces all creatures to be exported, no matter how junky
 ONLY_FLUFF = False
 FILTER_OBJECTS = True
-FILTER_EXISTING = False
+FILTER_EXISTING = True
 SHOW_NAMES = True
 DO_TRANSFER = True
 _TRANSFER_DIR = "../astranauta.github.io/trash_in/"

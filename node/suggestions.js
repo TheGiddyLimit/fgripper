@@ -109,10 +109,10 @@ client.on('ready', async () => {
 			return arr.map(it => `${String(it.votes).padStart(3, " ")} :: ${it.content.replace(/[\n\r]+/g, " \\ ")}`);
 		}
 
-		console.log("##### ROLL20 RESULTS #####");
+		console.log(`##### ROLL20 RESULTS (${sortedR20.length} suggestion${sortedR20.length === 1 ? "" : "s"}) #####`);
 		console.log(joinOut(sortedR20).join("\n"));
 		console.log("\n");
-		console.log("#####  MAIN RESULTS  #####");
+		console.log(`#####  MAIN RESULTS (${sortedMain.length} suggestion${sortedMain.length === 1 ? "" : "s"}) #####`);
 		console.log(joinOut(sortedMain).join("\n"));
 		Promise.resolve();
 		console.log("###################");
