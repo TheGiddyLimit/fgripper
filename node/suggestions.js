@@ -7,31 +7,6 @@ const MY_ID = "471422590829723665";
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-function cleanContent (string, shorten) {
-	const cleaned = string.replace(/[\n\r]+/g, " \\ ");
-	if (shorten) return `${cleaned.substring(0, 20)}${cleaned.length > 20 ? "..." : ""}`;
-	else return cleaned;
-}
-
-function cleanEmoji (emoji) {
-	if (emoji.length > 2) return emoji.split(":")[0];
-	return emoji;
-}
-
-async function asyncForEach(array, callback) {
-	for (let index = 0; index < array.length; index++) {
-		await callback(array[index], index, array)
-	}
-}
-
-async function asyncMap(array, callback) {
-	const out = [];
-	for (let index = 0; index < array.length; index++) {
-		out.push(await callback(array[index], index, array))
-	}
-	return out;
-}
-
 const MESSAGE_PULL_LIMIT = 100;
 const USER_PULL_LIMIT = 100;
 console.log(`Establishing uplink...`);
