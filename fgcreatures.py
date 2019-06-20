@@ -16,20 +16,30 @@ import codecs
 # Once the creatures are clean, the fluff can be cleaned, using `fluffer.js` in the main project
 
 # CONFIGURABLE STUFF
-SOURCE = "WDMM"
+SOURCE = "AI"
 IMG_DIR = "img/" + SOURCE + "/"
 FLUFF_IMAGE_DIR = "img/bestiary/" + SOURCE + "/"
-BASE_DIR = "adventures/DD Dungeon of the Mad Mage/"
-INPUT_DB = BASE_DIR + "db-cleaned.xml"
+BASE_DIR = "books/DD Acquisitions Incorporated/"
+INPUT_DB = BASE_DIR + "/db-cleaned.xml"
 DO_FLUFF = True
-IS_ADVENTURE = True
+IS_ADVENTURE = False
 AUTO_YES = True  # setting this to "true" forces all creatures to be exported, no matter how junky
 ONLY_FLUFF = False
 FILTER_OBJECTS = True
-FILTER_EXISTING = True
+FILTER_EXISTING = False
 SHOW_NAMES = True
 DO_TRANSFER = True
 _TRANSFER_DIR = "../astranauta.github.io/trash_in/"
+
+USE_TARGET_CREATURES = True
+TARGET_CREATURES = [n.lower() for n in [
+   "Chaos Quadrapod",
+   "Clockwork Dragon",
+   "Deep Crow",
+   "Ancient Deep Crow",
+   "Keg Robot",
+   "Splugoth the Returned"
+]]
 # END CONFIGURABLE STUFF
 
 def log(tag, text):
@@ -153,6 +163,15 @@ def dump_sters(to_loop):
             continue
 
         name = mon.find("name").text.strip()
+
+        if USE_TARGET_CREATURES:
+            low_name = name.lower()
+            if low_name in TARGET_CREATURES:
+                ix = TARGET_CREATURES.index(low_name)
+                del TARGET_CREATURES[ix]
+            else:
+                continue
+
         ster = {
             "name": name,
             "size": mon.find("size").text[0],
@@ -449,6 +468,9 @@ if DO_TRANSFER:
     print("Transferring to '" + _TRANSFER_DIR + "'")
     copyfile(out_path, _TRANSFER_DIR + out_path_filename)
     copyfile(out_path_fluff, _TRANSFER_DIR + out_path_fluff_filename)
+
+if len(TARGET_CREATURES) > 0:
+    raise Error("Not all creatures were found!")
 
 
 print("Done!")
